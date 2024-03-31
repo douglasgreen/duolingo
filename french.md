@@ -1,0 +1,183 @@
+- a/an - un/une
+- a lot - beaucoup
+- also - aussi
+- America - Amérique
+- American - américain/américaine
+- at - à
+- bye - au revoir
+- delighted - enchanté/enchantée
+- England - Angleterre
+- English - anglais/anglaise
+- excuse me - excusez-moi
+- fine - bien
+- for - pour
+- France - France
+- French - français/française
+- from - de
+- fun (adj.) - amusant/amusante
+- goodbye - au revoir
+- good day - bonne journée
+- good evening - bonsoir; bonne soirée
+- good morning - bonjour
+- good night - bonne nuit
+- happy - content/contente; heureux/heureuse
+- have a good day - bonne journée
+- he - il
+- hello - bonjour
+- here - ici
+- her - elle/sa/ses
+- hi - salut
+- his - son/ses
+- how - comment
+- I - je
+- in - dans
+- intelligent - intelligent/intelligente
+- Italian - italien/italienne
+- Italy - Italie
+- it - il (m.); elle (f.); ça (neutral)
+- its - son (m.); sa (f.); ses (pl.)
+- I would like - je voudrais
+- many - beaucoup
+- me - moi
+- Mexican - mexicain/mexicaine
+- Mexico - Mexique
+- my - mon/ma/mes
+- my name is - je m'appelle
+- nice to meet you - enchanté/enchantée
+- nobody - personne
+- no one - personne
+- of - de
+- one - un/une
+- or - ou
+- please - s'il vous plaît
+- see you soon - à bientôt
+- see you tomorrow - à demain
+- smart - intelligent/intelligente
+- Spain - Espagne
+- Spanish - espagnol/espagnole
+- thanks - merci
+- thank you - merci
+- thank you very much - merci beaucoup
+- that (pronoun) - cela (formal); ça (informal)
+- the age - l'ère (f.); l'âge (m.)
+- the airplane - l'avion (m.)
+- the airport - l'aéroport (m.)
+- the apartment - l'appartement (m.)
+- the baby - le bébé
+- the bakery - la boulangerie
+- the bank - la banque
+- the bathroom - la toilette
+- the beer - la bière
+- the book - le livre
+- the bottle - la bouteille
+- the boy - le garçon
+- the bread - le pain
+- the brother - le frère
+- the bus - le bus
+- the cafe - le café
+- the car - la voiture
+- the cat - le chat
+- the check (bill) - l'addition (f.)
+- the cheese - le fromage
+- the chocolate - le chocolat
+- the cinema - le cinéma
+- the coffee - le café
+- the college - le collège; l'université (f.)
+- the croissant - le croissant
+- the cup - la tasse
+- the daughter - la fille
+- the dessert - le dessert
+- the dog - le chien
+- the family - la famille
+- the father - le père
+- the garden - le jardin
+- the girl - la fille
+- the glass (drinking) - le verre (à boire)
+- the grandfather - le grand-père
+- the grandmother - la grand-mère
+- the home - la maison
+- the horse - le cheval
+- the hotel - l'hôtel (m.)
+- the house - la maison
+- the husband - le mari
+- the job - le travail; l'emploi (m.)
+- the journalist - le journaliste; la journaliste
+- the juice - le jus
+- the - le (m.)/la (f.)/les (pl.)
+- the man - l'homme (m.)
+- the mother - la mère
+- the movie theater - le cinéma
+- themselves - eux-mêmes; elles-mêmes
+- the mug - la tasse
+- the music - la musique
+- the orange - l'orange (f.)
+- the owl - la chouette; le hibou
+- the parent - le parent/la parente
+- the park - le parc
+- the passport - le passeport
+- the person - la personne
+- the pet - l'animal de compagnie
+- the pizza - la pizza
+- the plane - l'avion (m.)
+- the plane ticket - le billet d'avion
+- the professor - le professeur/la professeure
+- the relative - le parent
+- the restaurant - le restaurant
+- the salad - la salade
+- the sandwich - le sandwich
+- the school - l'école (f.)
+- the sister - la sœur
+- the son - le fils
+- the student - l'étudiant/l'étudiante
+- the subway - le métro
+- the suitcase - la valise
+- the table - la table
+- the tea - le thé
+- the ticket - le billet
+- the train - le train
+- the train station - la gare
+- the university - l'université (f.)
+- the waiter/waitress - le serveur/la serveuse
+- the water - l'eau (f.)
+- the wife - la femme; l'épouse (f.)
+- the wine - le vin
+- the woman - la femme
+- the work - le travail
+- the year - l'an/l'année
+- they - ils; elles
+- the zoo - le zoo
+- this - ce/cet (m.); cette (f.); ceci (formal); ça (informal)
+- three - trois
+- to - à
+- to be - être
+- to dwell - habiter
+- to eat - manger
+- to excuse - excuser
+- to go - aller
+- to have - avoir
+- to like - aimer
+- to live in - habiter
+- to love - aimer
+- too (as well) - aussi
+- too (excessively) - trop
+- too much - trop
+- to read - lire
+- to speak - parler
+- to study - étudier
+- to take - prendre
+- to talk - parler
+- to the - au
+- to want - vouloir
+- to work - travailler
+- two - deux
+- us - nous
+- very - très
+- welcome - bienvenue
+- well - bien
+- we - nous
+- what is your name? - comment vous appelez-vous?;  comment tu t'appelles?
+- with - avec
+- yes - oui
+- yourself - toi-même; vous-même
+- your - ton (m.); ta (f.); votre (formal); vos (formal pl.)
+- you - tu (informal); vous (formal or plural)

@@ -1,0 +1,478 @@
+- a/an - unu; iu
+- about - pri
+- Africa - Afriko
+- African - Afrika
+- again - denove
+- a little - iomete
+- all right - bone
+- all the time - ĉiam
+- alone - sola
+- a lot - multe
+- also - ankaŭ
+- always - ĉiam
+- America - Ameriko
+- American - Amerika
+- and - kaj
+- any - iu
+- anyone - iu ajn
+- anything - io ajn
+- Argentina - Argentino
+- as big as - tiel granda kiel
+- as - kiel
+- Australia - Aŭstralio
+- Australian - aŭstraliano
+- bad - malbona
+- beautiful - bela
+- because - ĉar
+- big - granda
+- black - nigra
+- blue - blua
+- both - ambaŭ
+- Brazil - Brazilo
+- brown - bruna
+- but - sed
+- bye - ĝis
+- Canada - Kanado
+- Canadian - kanada
+- Chilean - ĉilia
+- Chile - Ĉilio
+- cold - malvarma
+- congratulations - gratulojn
+- cool (great) - mojosa
+- Czechia - Ĉeĥio
+- dangerous - danĝera
+- dark - malhela
+- delicious - bongusta
+- difficult - malfacila
+- easy - facila
+- either - aŭ
+- England - Anglio
+- English - angla
+- Esperantist - esperantisto
+- Esperanto - Esperanto
+- European - eŭropa
+- Europe - Eŭropo
+- excuse me - pardonu min
+- fast - rapide
+- fine - bone
+- for - por
+- France - Francio
+- French - franca
+- from - el
+- German - germana
+- Germany - Germanio
+- good - bona
+- good day - bonan tagon
+- good evening - bonan vesperon
+- good morning - bonan matenon
+- good night - bonan nokton
+- gray - griza
+- Great Britain - Granda Britio
+- green - verda
+- happy - feliĉa
+- hard (not easy) - malfacila
+- hard (not soft) - malmola
+- he - li
+- hello - saluton
+- here - ĉi tie
+- her - ŝin; ŝia
+- hers - ŝia
+- him - lin
+- hi - saluton
+- his - lia
+- how are you - kiel vi fartas
+- how - kiel
+- how many - kiom
+- how much - kiom
+- if - se
+- I - mi
+- important - grava
+- in - en
+- in that way - tiel
+- Italian - itala
+- Italy - Italio
+- it - ĝi
+- its - ĝia
+- Japanese - japana
+- Japan - Japanio
+- large - granda
+- later - poste; pli malfrue
+- left (side) - maldekstra
+- leisurely - malrapide
+- light (not dark) - hela
+- like (in a similar way) - kiel
+- little - malgranda
+- London - Londono
+- long - longa
+- many - multaj
+- me - min
+- Mexican - meksika
+- Mexico - Meksiko
+- mine - mia
+- more - pli
+- more than - pli ol
+- my - mia
+- my own - mia propra
+- neither - nek
+- never mind - ne gravas
+- nice - bela
+- no - ne
+- nor - nek
+- North America - Nordameriko
+- not - ne
+- of - de; da
+- often - ofte
+- OK - Bone
+- one - unu; oni
+- only - nur
+- on - sur
+- on the left - maldekstre
+- on the right - dekstre
+- onto - sur
+- or - aŭ
+- our - nia
+- ours - nia
+- Paris - Parizo
+- please - bonvolu
+- Poland - Pollando
+- Polish - pola
+- pretty - bela
+- quickly - rapide
+- quick - rapida
+- red - ruĝa
+- right (side) - dekstra
+- Russian - rusa
+- Russia - Rusio
+- see you - ĝis
+- see you later - ĝis poste; ĝis la revido
+- short - mallonga
+- slowly - malrapide
+- slow - malrapida
+- small - malgranda
+- soft - mola
+- so (in that manner) - tiel
+- somebody - iu
+- someone - iu
+- something - io
+- somewhat - iom
+- so much - tiom
+- South America - Sudameriko
+- Spain - Hispanio
+- Spanish - hispana
+- sweet - dolĉa
+- thanks - dankon
+- thank you - dankon
+- than - ol
+- that (indirect speech) - ke
+- that (pronoun) - tiu; tio
+- the address - la adreso
+- the alligator - la aligatoro
+- the animal - la besto
+- the answer - la respondo
+- the appetite - la apetito
+- the apple - la pomo
+- the autumn (fall) - la aŭtuno
+- the bathroom - la necesejo; la banĉambro
+- the bear - la urso
+- the beef - la bovaĵo
+- the bee - la abelo
+- the beer - la biero
+- the beginner - la komenco; la komencanto
+- the belt - la zono
+- the bird - la birdo
+- the book - la libro
+- the boot - la boto
+- the boy - la knabo
+- the bread - la pano
+- the breakfast - la matenmanĝo
+- the butter - la butero
+- the button - la butono
+- the cafe - la kafejo
+- the cake - la kuko
+- the cap - la ĉapelo
+- the car - la aŭto
+- the carrot - la karoto
+- the cat - la kato
+- the cheese - la fromaĝo
+- the chicken (bird) - la koko; la kokino
+- the chicken (meat) - la kokaĵo
+- the child - la infano
+- the chocolate - la ĉokolado
+- the city - la urbo
+- the coat - la mantelo
+- the color - la koloro
+- the congress - la kongreso
+- the continent - la kontinento
+- the country - la lando
+- the cow - la bovino
+- the crocodile - la krokodilo
+- the cup - la taso
+- the dance - la danco*
+- the day - la tago
+- the dessert - la deserto
+- the dictionary - la vortaro
+- the dinner - la vespermanĝo
+- the dog - la hundo
+- the door - la pordo
+- the dress - la robo
+- the drink - la trinkaĵo
+- the egg - la ovo
+- the father - la patro
+- the fat - la graso
+- the fish (animal) - la fiŝo
+- the fish (meat) - la fiŝaĵo
+- the flag - la flago
+- the flower - la floro
+- the fly - la muŝo
+- the food - la manĝaĵo
+- the friend - la amiko
+- the fruit - la frukto
+- the girlfriend - la amikino
+- the girl - la knabino
+- the glass (drinking) - la glaso
+- the grandfather - la avo
+- the grandmother - la avino
+- the hat - la ĉapelo
+- the help - la helpo
+- the home - la hejmo
+- the horse - la ĉevalo
+- the house - la domo
+- the ice - la glacio
+- the insect - la insekto
+- their - ilia
+- theirs - ilia
+- the job - la laboro
+- the juice - la suko
+- the kilogram - la kilogramo
+- the kitten - la katido
+- the - la
+- the lamb - la ŝafido
+- the language - la lingvo
+- the letter (written communication) - la letero
+- the liter - la litro
+- the lunch - la tagmanĝo
+- the mango - la mango
+- the man - la viro
+- the map - la mapo
+- the matter (affair) - la afero
+- the meal - la manĝo
+- the meat - la viando
+- the memory - la memoro
+- the menu - la menuo
+- them - ilin
+- the milk - la lakto
+- the mom - la patrino
+- the money - la mono
+- the morning - la mateno
+- the mother - la patrino
+- the mouse - la muso
+- the mug - la taso
+- the name - la nomo
+- the newspaper - la ĵurnalo
+- the night - la nokto
+- the office - la oficejo
+- the offspring - la ido
+- the oil - la oleo
+- the orange - la oranĝo
+- the owl - la strigo
+- the page - la paĝo
+- the pajamas - la piĵamo
+- the pants - la pantalono
+- the pasta - la paŝtaĵo
+- the phone - la telefono
+- the photograph - la foto
+- the photo - la foto
+- the pig - la porko
+- the pineapple - la ananaso
+- the pizza - la pico
+- the plate - la telero
+- the pocket - la poŝo
+- the pork - la porkaĵo
+- the pullover (sweater) - la pulovero
+- the puppy - la hundido
+- the question - la demando
+- the rabbit - la kuniklo
+- the recipe - la recepto
+- the response - la respondo
+- the restaurant - la restoracio
+- there - tie
+- the rice - la rizo
+- the robe - la robo
+- the room - la ĉambro
+- the salt - la salo
+- the sandal - la sandalo
+- the sandwich - la sandviĉo
+- these - ĉi tiuj
+- the sentence - la frazo
+- the sheep - la ŝafo
+- the shirt - la ĉemizo
+- the shoe - la ŝuo
+- the skirt - la jupo
+- the sleeve - la maniko
+- the sock - la ŝtrumpeto
+- the soup - la supo
+- the spider - la araneo
+- the spring (season) - la printempo
+- the stocking - la ŝtrumpo
+- the strawberry - la frago
+- the sugar - la sukero
+- the summer - la somero
+- the sun - la suno
+- the tail - la vosto
+- the teacher - la instruisto
+- the tea - la teo
+- the telephone - la telefono
+- the tomato - la tomato
+- the town - la urbo
+- the T-shirt - la T-ĉemizo
+- the tutor - la instruisto
+- the underwear - la kalsono
+- the university - la universitato
+- the vegetable - la legomo
+- the visit - vizito
+- the waiter/waitress - la kelnero/la kelnerino
+- the water - la akvo
+- the weather - la vetero
+- the wine - la vino
+- the winter - la vintro
+- the woman - la virino
+- the word - la vorto
+- the work - la laboro
+- they - ili
+- the zipper - la zipo
+- this - ĉi tiu
+- those - tiuj
+- three - tri
+- through - tra
+- till (until) - ĝis
+- to accept - akcepti
+- to act - agi
+- to - al
+- to answer - respondi
+- to ask - demandi
+- to ask for - peti
+- to be able - povi; kapabli
+- to be allowed - rajti
+- to be - esti
+- to begin - komenci
+- to be right - pravi
+- to be wrong - malpravi
+- to buy - aĉeti
+- to call - voki; telefoni
+- to carry - porti
+- to catch - kapti
+- to change - ŝanĝi
+- to come - veni
+- to cook - kuiri
+- to cut - tranĉi
+- to dance - danci
+- today - hodiaŭ
+- to do - farti
+- to drink - trinki
+- to dwell - loĝi
+- to eat breakfast - matenmanĝi
+- to eat dinner - vespermanĝi
+- to eat lunch - tagmanĝi
+- to eat - manĝi
+- to excuse - pardoni
+- to expect - atendi
+- to fear - timi
+- to finish - fini
+- to fly - flugi
+- to fold - faldi
+- to forgive - pardoni
+- together - kune
+- to give - doni
+- to go - iri
+- to have - havi
+- to have to - devi
+- to hope - esperi
+- to kiss - kisi
+- to know (a fact) - scii
+- to know (someone) - koni (iun)
+- to learn - lerni
+- to like - ŝati
+- to listen - aŭskulti
+- to live - vivi
+- to look at - rigardi al
+- to look - rigardi
+- to love - ami
+- to make - fari
+- to meet - renkonti
+- to need - bezoni
+- too (as well) - ankaŭ
+- too (excessively) - tro
+- too many - tro multaj
+- too much - tro multe
+- to open - malfermi
+- to order - mendi
+- to rain - pluvi
+- to read - legi
+- to request - peti
+- to run - kuri
+- to say - diri
+- to see - vidi
+- to sell - vendi
+- to send - sendi
+- to sew - kudri
+- to shine - brili
+- to show - montri
+- to sing - kanti
+- to sit - sidi
+- to sleep - dormi
+- to smell - flari; odori
+- to snow - neĝi
+- to speak - paroli
+- to stand - stari
+- to start - komenci
+- to study - studi
+- to talk about - paroli pri
+- to talk - paroli
+- to taste - gustumi
+- to tell - diri; rakonti
+- to thank - danki
+- to think - pensi
+- to travel - vojaĝi
+- to trust - fidi
+- to try - provi
+- to understand - kompreni
+- to use - uzi
+- to visit - viziti
+- to wait - atendi
+- to wait for - atendi
+- to watch - rigardi
+- to wear - porti; surhavi
+- to where - kien
+- to work - labori
+- to write - skribi
+- true - vera
+- two - du
+- ugly - malbela
+- unhappy - malfeliĉa
+- United States - Usono
+- us - nin
+- vegetarian - vegetara
+- very - tre
+- warm (adj.) - varma
+- welcome - bonvenon
+- well - bone
+- we - ni
+- what - kio
+- when - kiam
+- where - kie
+- whether - ĉu
+- which - kiu
+- white - blanka
+- who - kiu
+- whom - kiun
+- whose - kies
+- why - kial
+- wicked - malbona
+- with - kun
+- without - sen
+- yellow - flava
+- yes - jes
+- you are welcome - nedankinde
+- yours - via
+- your - via
+- you - vi
