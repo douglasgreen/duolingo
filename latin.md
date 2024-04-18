@@ -20,8 +20,10 @@
 - calm - placidus; tranquillus
 - concerned - sollicitus
 - daily - cotidie
+- dining room - triclinium
 - drunk - ebrius
 - dutiful - pius
+- fat - pinguis
 - female - femina
 - fine - bene
 - five - quinque
@@ -69,7 +71,9 @@
 - please - quaeso (in asking politely)
 - quiet - tacitus; quietus
 - red - ruber
+- rich - pecuniosus
 - sacred - sacer
+- salty - salsus
 - she - ea
 - sick - aeger
 - skilled - peritus
@@ -88,6 +92,7 @@
 - the baker - pistor (m.)
 - the bar (tavern) - taberna
 - the bed - lectus
+- the bone - ossum
 - the book - liber (m.)
 - the boy - puer (m.)
 - the bread - panis (m.)
@@ -107,6 +112,9 @@
 - the farmer - agricola
 - the father - pater (m.)
 - the field - ager (m.)
+- the fish - piscis (m.)
+- the fish sauce - garum
+- the floor - pavimentum
 - the food - cibus
 - the forum - forum
 - the game - ludus
@@ -117,6 +125,7 @@
 - the home - domus
 - the house - domus
 - the husband - maritus
+- the inn - caupona
 - the journey - iter (nt.)
 - the language - lingua
 - the literature - litterae (f.)
@@ -124,6 +133,7 @@
 - the man - vir (m.)
 - the marketplace - forum
 - the meal - cibus
+- the meat - caro
 - the merchant - mercator (m.)
 - the mom - mater (f.)
 - the money - pecunia
@@ -151,6 +161,7 @@
 - the sport - ludus
 - the stage - scaena
 - the student - discipulus/discipula
+- the table - mensa
 - the teacher - magister/magistra
 - the temple - templum
 - the theater - theatrum
@@ -194,7 +205,9 @@
 - to sell - vendere
 - to sleep - dormire
 - to study - studere
+- to taste - gustare
 - to teach - docere
+- to throw - iacere
 - to travel - iter facere
 - to visit - visitare
 - to want - velle
@@ -204,6 +217,7 @@
 - two - duo
 - unhappy - miser; infelix
 - us - nos
+- very many - plurimi
 - welcome - salve/salvete
 - well - bene
 - we - nos

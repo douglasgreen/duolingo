@@ -42,6 +42,7 @@
 - Czechia - Ĉeĥio
 - dangerous - danĝera
 - dark - malhela
+- dear - kara
 - delicious - bongusta
 - difficult - malfacila
 - easy - facila
@@ -123,6 +124,7 @@
 - of - de; da
 - often - ofte
 - OK - Bone
+- old - maljuna
 - one - unu; oni
 - only - nur
 - on - sur
@@ -143,6 +145,7 @@
 - right (side) - dekstra
 - Russian - rusa
 - Russia - Rusio
+- same - sama
 - see you - ĝis
 - see you later - ĝis poste; ĝis la revido
 - short - mallonga
@@ -171,6 +174,7 @@
 - the answer - la respondo
 - the appetite - la apetito
 - the apple - la pomo
+- the aut - la onklino
 - the autumn (fall) - la aŭtuno
 - the bathroom - la necesejo; la banĉambro
 - the bear - la urso
@@ -182,9 +186,12 @@
 - the bird - la birdo
 - the book - la libro
 - the boot - la boto
+- the boyfriend - la koramiko
 - the boy - la knabo
 - the bread - la pano
 - the breakfast - la matenmanĝo
+- the brother-in-law - la bofrato
+- the brother - la frato
 - the butter - la butero
 - the button - la butono
 - the cafe - la kafejo
@@ -196,7 +203,7 @@
 - the cheese - la fromaĝo
 - the chicken (bird) - la koko; la kokino
 - the chicken (meat) - la kokaĵo
-- the child - la infano
+- the child - la infano; la gefilo
 - the chocolate - la ĉokolado
 - the city - la urbo
 - the coat - la mantelo
@@ -204,10 +211,14 @@
 - the congress - la kongreso
 - the continent - la kontinento
 - the country - la lando
+- the couple - la paro
+- the cousin - la kuzo
 - the cow - la bovino
 - the crocodile - la krokodilo
 - the cup - la taso
+- the dad - la paĉjo
 - the dance - la danco*
+- the daughter - la filio
 - the day - la tago
 - the dessert - la deserto
 - the dictionary - la vortaro
@@ -217,6 +228,8 @@
 - the dress - la robo
 - the drink - la trinkaĵo
 - the egg - la ovo
+- the family - la familio
+- the father-in-law - la bopatro
 - the father - la patro
 - the fat - la graso
 - the fish (animal) - la fiŝo
@@ -226,17 +239,25 @@
 - the fly - la muŝo
 - the food - la manĝaĵo
 - the friend - la amiko
+- the friend - la geamiko
 - the fruit - la frukto
 - the girlfriend - la amikino
+- the girlfriend - la koramikino
 - the girl - la knabino
 - the glass (drinking) - la glaso
+- the graddaughter - la nepino
 - the grandfather - la avo
 - the grandmother - la avino
+- the grandparent - la geavo
+- the grandson - la nepo
+- the great-grandfather - la praavo
+- the great-grandmother - la praavino
 - the hat - la ĉapelo
 - the help - la helpo
 - the home - la hejmo
 - the horse - la ĉevalo
 - the house - la domo
+- the husband - la edzo
 - the ice - la glacio
 - the insect - la insekto
 - their - ilia
@@ -261,14 +282,19 @@
 - the menu - la menuo
 - them - ilin
 - the milk - la lakto
+- the mom - la panjo
 - the mom - la patrino
 - the money - la mono
 - the morning - la mateno
+- the mother-in-law - la bopatrino
 - the mother - la patrino
 - the mouse - la muso
 - the mug - la taso
 - the name - la nomo
+- the nephew - la nevo
+- the nephew or niece - la genevo
 - the newspaper - la ĵurnalo
+- the niece - la nevino
 - the night - la nokto
 - the office - la oficejo
 - the offspring - la ido
@@ -298,6 +324,7 @@
 - there - tie
 - the rice - la rizo
 - the robe - la robo
+- the room - ĉambro
 - the room - la ĉambro
 - the salt - la salo
 - the sandal - la sandalo
@@ -307,9 +334,13 @@
 - the sheep - la ŝafo
 - the shirt - la ĉemizo
 - the shoe - la ŝuo
+- the sibling - la gefrato
+- the sister-in-law - la bofratino
+- the sister - la fratino
 - the skirt - la jupo
 - the sleeve - la maniko
 - the sock - la ŝtrumpeto
+- the son - la filo
 - the soup - la supo
 - the spider - la araneo
 - the spring (season) - la printempo
@@ -326,6 +357,8 @@
 - the town - la urbo
 - the T-shirt - la T-ĉemizo
 - the tutor - la instruisto
+- the twin - la ĝemelo
+- the uncle - la onklo
 - the underwear - la kalsono
 - the university - la universitato
 - the vegetable - la legomo
@@ -333,6 +366,7 @@
 - the waiter/waitress - la kelnero/la kelnerino
 - the water - la akvo
 - the weather - la vetero
+- the wife - la edzino
 - the wine - la vino
 - the winter - la vintro
 - the woman - la virino
@@ -355,6 +389,7 @@
 - to be allowed - rajti
 - to be - esti
 - to begin - komenci
+- to be old - aĝi
 - to be right - pravi
 - to be wrong - malpravi
 - to buy - aĉeti
@@ -387,6 +422,7 @@
 - to have - havi
 - to have to - devi
 - to hope - esperi
+- to introduce - prezenti
 - to kiss - kisi
 - to know (a fact) - scii
 - to know (someone) - koni (iun)
@@ -426,6 +462,7 @@
 - to stand - stari
 - to start - komenci
 - to study - studi
+- to take care of - zorgi pri
 - to talk about - paroli pri
 - to talk - paroli
 - to taste - gustumi
@@ -433,6 +470,7 @@
 - to thank - danki
 - to think - pensi
 - to travel - vojaĝi
+- to treat - trakti
 - to trust - fidi
 - to try - provi
 - to understand - kompreni
@@ -473,6 +511,7 @@
 - yellow - flava
 - yes - jes
 - you are welcome - nedankinde
+- young - juna
 - yours - via
 - your - via
 - you - vi

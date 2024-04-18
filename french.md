@@ -4,6 +4,7 @@
 - America - Amérique
 - American - américain/américaine
 - at - à
+- big - grand/grande
 - bye - au revoir
 - delighted - enchanté/enchantée
 - England - Angleterre
@@ -52,6 +53,7 @@
 - please - s'il vous plaît
 - see you soon - à bientôt
 - see you tomorrow - à demain
+- small - petit/petite
 - smart - intelligent/intelligente
 - Spain - Espagne
 - Spanish - espagnol/espagnole
@@ -128,6 +130,7 @@
 - the school - l'école (f.)
 - the sister - la sœur
 - the son - le fils
+- the store - le magasin
 - the student - l'étudiant/l'étudiante
 - the subway - le métro
 - the suitcase - la valise
