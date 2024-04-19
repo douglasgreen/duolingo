@@ -105,9 +105,11 @@
 - the cook - coquus
 - the cookie - crustulum
 - the courier - tabellarius
+- the cup - poculum
 - the dad - pater (m.)
 - the dinner - cena
 - the doctor - medicus/medica
+- the egg - ovum
 - the family - familia
 - the farmer - agricola
 - the father - pater (m.)
@@ -145,6 +147,8 @@
 - the paint - pictura
 - the parrot - psittacus
 - the patron - patronus
+- the peacock - pavo, pavonis
+- the plate - patella
 - the plaza - forum
 - the poem - carmen (nt.)
 - the poet - poeta
@@ -186,6 +190,7 @@
 - to cook - coquere
 - to cost - constare
 - today - hodie
+- to drink - bibere
 - to drive - agere (used in context, e.g., vehiculum agere)
 - to dwell - habitare
 - to fight - pugnare
