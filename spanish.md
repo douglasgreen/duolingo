@@ -322,6 +322,7 @@
 - the boot - la bota
 - the boss - el jefe
 - the bottle - la botella
+- the box - la caja
 - the boy - el niño; el chico
 - the boyfriend - el novio
 - the bread - el pan
@@ -698,7 +699,7 @@
 - to study - estudiar
 - to surprise - sorprender
 - to swim - nadar
-- to take - tomar
+- to take - tomar; coger
 - to talk - hablar
 - to taste - probar; saborear
 - to teach - enseñar

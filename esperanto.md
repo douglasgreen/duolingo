@@ -177,6 +177,7 @@
 - the aut - la onklino
 - the autumn (fall) - la aŭtuno
 - the bathroom - la necesejo; la banĉambro
+- the battery - la baterio
 - the bear - la urso
 - the beef - la bovaĵo
 - the bee - la abelo
@@ -206,8 +207,10 @@
 - the child - la infano; la gefilo
 - the chocolate - la ĉokolado
 - the city - la urbo
+- the clock - la horloĝo
 - the coat - la mantelo
 - the color - la koloro
+- the computer - la komputilo
 - the congress - la kongreso
 - the continent - la kontinento
 - the country - la lando
@@ -288,6 +291,7 @@
 - the morning - la mateno
 - the mother-in-law - la bopatrino
 - the mother - la patrino
+- the motor - la motoro
 - the mouse - la muso
 - the mug - la taso
 - the name - la nomo
@@ -329,6 +333,7 @@
 - the salt - la salo
 - the sandal - la sandalo
 - the sandwich - la sandviĉo
+- the screen - la ekrano
 - these - ĉi tiuj
 - the sentence - la frazo
 - the sheep - la ŝafo
@@ -372,6 +377,7 @@
 - the woman - la virino
 - the word - la vorto
 - the work - la laboro
+- the wristwatch - la brakhorloĝo
 - they - ili
 - the zipper - la zipo
 - this - ĉi tiu
@@ -488,6 +494,7 @@
 - ugly - malbela
 - unhappy - malfeliĉa
 - United States - Usono
+- useful - utila
 - us - nin
 - vegetarian - vegetara
 - very - tre

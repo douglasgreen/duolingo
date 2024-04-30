@@ -38,6 +38,7 @@
 - it - il (m.); elle (f.); ça (neutral)
 - its - son (m.); sa (f.); ses (pl.)
 - I would like - je voudrais
+- large - grand/grande
 - many - beaucoup
 - me - moi
 - Mexican - mexicain/mexicaine
@@ -49,6 +50,7 @@
 - no one - personne
 - of - de
 - one - un/une
+- open - ouvert/ouverte
 - or - ou
 - please - s'il vous plaît
 - see you soon - à bientôt
@@ -99,6 +101,7 @@
 - the grandmother - la grand-mère
 - the home - la maison
 - the horse - le cheval
+- the hospital - l'hôpital (m.)
 - the hotel - l'hôtel (m.)
 - the house - la maison
 - the husband - le mari
@@ -119,6 +122,7 @@
 - the passport - le passeport
 - the person - la personne
 - the pet - l'animal de compagnie
+- the pharmacy - le pharmacie
 - the pizza - la pizza
 - the plane - l'avion (m.)
 - the plane ticket - le billet d'avion
@@ -130,10 +134,12 @@
 - the school - l'école (f.)
 - the sister - la sœur
 - the son - le fils
+- the station - la station
 - the store - le magasin
 - the student - l'étudiant/l'étudiante
 - the subway - le métro
 - the suitcase - la valise
+- the supermarket - le supermarche
 - the table - la table
 - the tea - le thé
 - the ticket - le billet
