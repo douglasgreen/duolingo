@@ -124,7 +124,8 @@
 - here - aquí
 - herself - ella misma
 - hers - suyo (de ella)
-- her - su (de ella); a ella
+- her (poss.) - su (de ella)
+- her (obj.) - ella
 - hi - hola
 - him - él
 - himself - él mismo

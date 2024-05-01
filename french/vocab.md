@@ -26,7 +26,8 @@
 - he - il
 - hello - bonjour
 - here - ici
-- her - elle/sa/ses
+- her (obj.) - elle
+- her (poss.) - sa/ses
 - hi - salut
 - his - son/ses
 - how - comment

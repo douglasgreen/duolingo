@@ -41,7 +41,8 @@
 - he - er
 - hello - hallo
 - here - hier
-- her - ihr
+- her (obj.) - sie
+- her (poss.) - ihr
 - his - sein
 - hot - heiß
 - how are you - wie geht es dir; wie geht's

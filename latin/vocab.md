@@ -34,7 +34,8 @@
 - healthy - sanus
 - he - is (m.)
 - hello - salve/salvete
-- her - eius (possessive)/eam (object)
+- her (poss.) - eius
+- her (obj.) - eam
 - hers - eius
 - herself - se ipsa
 - him - eum

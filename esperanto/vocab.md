@@ -76,7 +76,8 @@
 - he - li
 - hello - saluton
 - here - ĉi tie
-- her - ŝin; ŝia
+- her (obj.) - ŝin
+- her (poss.) - ŝia
 - hers - ŝia
 - him - lin
 - hi - saluton
