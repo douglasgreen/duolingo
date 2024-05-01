@@ -1,5 +1,5 @@
 - a/an - ein/eine
-- also - auch
+- also; to (as well) - auch
 - always - immer
 - America - Amerika
 - and - und
@@ -7,7 +7,7 @@
 - Austria - Österreich
 - beautiful - schön
 - Berlin - Berlin
-- big - groß
+- big; large; tall - groß
 - but - aber
 - bye - tschüss
 - Canada - Kanada
@@ -24,26 +24,25 @@
 - expensive - teuer
 - far away - weit weg
 - few - wenig
-- fine - gut
+- fine; good; well - gut
 - five - fünf
 - four - vier
 - France - Frankreich
-- from - aus; von
+- from; of; out of - aus; von
 - from where - woher
 - German - Deutsch
 - Germany - Deutschland
 - goodbye - Auf Wiedersehen
 - good day - guten Tag
 - good evening - guten Abend
-- good - gut
 - good morning - guten Morgen
 - good night - gute Nacht
 - he - er
 - hello - hallo
 - here - hier
-- her (obj.) - sie
-- her (poss.) - ihr
-- his - sein
+- her (obj.); she; they - sie
+- her (poss.); their - ihr
+- his; to be - sein
 - hot - heiß
 - how are you - wie geht es dir; wie geht's
 - how much - wie viel
@@ -54,18 +53,14 @@
 - in - in
 - interesting - interessant
 - its - sein/ihr
-- large - groß
 - later - später
-- left (side) - links
-- little - klein
-- loud - laut
-- loudly - laut
-- mine - mein/meine
+- left (side); on the left - links
+- little; small - klein
+- loud; loudly; noisy - laut
+- mine; my - mein/meine
 - Mr. - Herr
-- Mrs. - Frau
-- Ms. - Frau
+- Mrs.; Ms. - Frau
 - Munich - München
-- my - mein/meine
 - my name is - ich heiße
 - nearby - in der Nähe
 - never - nie
@@ -73,33 +68,25 @@
 - New York - New York
 - nice - nett
 - nine - neun
-- noisy - laut
 - no - nein
 - none - kein/keine
 - of course - natürlich
 - often - oft
-- of - von
 - oh - ach; oh
 - OK - OK
 - old - alt
 - one (num.) - eins
-- on the left - links
-- on the right - rechts
+- on the right; right (side) - rechts
 - or - oder
 - ouch - au
-- out of - aus
 - over there - da drüben
 - please - bitte
 - really - wirklich
-- right (side) - rechts
 - Russia - Russland
-- see you - bis bald
 - see you later - bis später
-- see you soon - bis bald
+- see you; see you soon - bis bald
 - seven - sieben
-- she - sie
 - six - sechs
-- small - klein
 - smart - klug
 - sometimes - manchmal
 - soon - bald
@@ -107,10 +94,8 @@
 - stressful - stressig
 - super (great) - super
 - Sweden - Schweden
-- tall - groß
 - ten - zehn
-- thanks - danke
-- thank you - danke
+- thank you; thanks - danke
 - thank you very much - vielen Dank
 - that (pronoun) - das
 - the actor/actress - der Schauspieler/die Schauspielerin
@@ -130,8 +115,8 @@
 - the cheese - der Käse
 - the chess - das Schach
 - the church - die Kirche
-- the cinema - das Kino
-- the city - die Stadt
+- the cinema; the movie theater - das Kino
+- the city; the town - die Stadt
 - the coffee - der Kaffee
 - the daughter - die Tochter
 - the day - der Tag
@@ -144,25 +129,21 @@
 - the elephant - der Elefant
 - the Euro - das Euro
 - the father - der Vater
-- the food - das Essen
+- the food; the meal - das Essen
 - the friend - der Freund/die Freundin
 - the girlfriend - die Freundin
 - the hotel - das Hotel
-- the husband - der Mann
-- their - ihr
+- the husband; the man - der Mann
 - the kilogram - das Kilogramm
 - the lawyer - der Anwalt/die Anwältin
 - the library - die Bibliothek
-- the man - der Mann
 - the marketplace - der Marktplatz
-- the meal - das Essen
 - the menu - die Speisekarte
 - the milk - die Milch
 - the mineral water - das Mineralwasser
 - the money - das Geld
 - the mother - die Mutter
 - the mouse - die Maus
-- the movie theater - das Kino
 - the museum - das Museum
 - the orange - die Orange
 - the owl - die Eule
@@ -170,8 +151,7 @@
 - the pharmacy - die Apotheke
 - the piano - das Klavier
 - the pizza - die Pizza
-- the place - der Platz
-- the plaza - der Platz
+- the place; the plaza - der Platz
 - the police officer - der Polizist/die Polizistin
 - the potato - die Kartoffel
 - the professor - der Professor/die Professorin
@@ -183,7 +163,7 @@
 - the schnitzel - das Schnitzel
 - the sister - die Schwester
 - the son - der Sohn
-- the station - der Bahnhof; die Station
+- the station; the train station - der Bahnhof; die Station
 - the strawberry - die Erdbeere
 - the student - der Student/die Studentin
 - the subway - die U-Bahn
@@ -194,37 +174,28 @@
 - the teacher - der Lehrer/die Lehrerin
 - the tea - der Tee
 - the tomato - die Tomate
-- the town - die Stadt
-- the train station - der Bahnhof
 - the university - die Universität
 - the waiter/waitress - der Kellner/die Kellnerin
 - the water - das Wasser
 - the wine - der Wein
 - the woman - die Frau
 - the work - die Arbeit
-- they - sie
 - three - drei
-- to (as well) - auch
 - to be named - heißen
-- to be - sein
-- to boil - kochen
+- to boil; to cook - kochen
 - to come - kommen
-- to cook - kochen
 - to cost - kosten
 - to lie (down) - liegen
 - to live - leben
-- to look - schauen; sehen
-- too (excessively) - zu
+- to look; to see - schauen; sehen
 - to paint - malen
 - to play - spielen
-- to see - sehen
 - to speak - sprechen
 - to swim - schwimmen
-- to - zu
+- to; too (excessively) - zu
 - two - zwei
 - very - sehr
 - Vienna - Wien
-- well - gut
 - what is your name? - Wie heißt du?
 - what - was
 - where are you from? - woher kommst du?
@@ -232,7 +203,7 @@
 - with - mit
 - wonderful - wunderbar
 - yes - ja
-- you are welcome - gern geschehen; bitte schön
+- you are welcome - bitte schön; gern geschehen
 - you - du/ihr/Sie
 - young - jung
 - your - dein/euer/Ihr
