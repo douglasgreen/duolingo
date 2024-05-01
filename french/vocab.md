@@ -1,30 +1,27 @@
-- a/an - un/une
-- a lot - beaucoup
-- also - aussi
+- a/an; one (num.) - un/une
+- a lot; many - beaucoup
+- also; too (as well) - aussi
 - America - Amérique
 - American - américain/américaine
-- at - à
-- big - grand/grande
-- bye - au revoir
-- delighted - enchanté/enchantée
+- at; to - à
+- big; large - grand/grande
+- bye; goodbye - au revoir
+- delighted; nice to meet you - enchanté/enchantée
 - England - Angleterre
 - English - anglais/anglaise
 - excuse me - excusez-moi
-- fine - bien
+- fine; well - bien
 - for - pour
 - France - France
 - French - français/française
-- from - de
+- from; of - de
 - fun (adj.) - amusant/amusante
-- goodbye - au revoir
-- good day - bonne journée
-- good evening - bonsoir; bonne soirée
-- good morning - bonjour
+- good day; have a good day - bonne journée
+- good evening - bonne soirée; bonsoir
+- good morning; hello - bonjour
 - good night - bonne nuit
 - happy - content/contente; heureux/heureuse
-- have a good day - bonne journée
 - he - il
-- hello - bonjour
 - here - ici
 - her (obj.) - elle
 - her (poss.) - sa/ses
@@ -33,39 +30,31 @@
 - how - comment
 - I - je
 - in - dans
-- intelligent - intelligent/intelligente
+- intelligent; smart - intelligent/intelligente
 - Italian - italien/italienne
 - Italy - Italie
-- it - il (m.); elle (f.); ça (neutral)
-- its - son (m.); sa (f.); ses (pl.)
+- it - elle (f.); il (m.); ça (neutral)
+- its - sa (f.); ses (pl.); son (m.)
 - I would like - je voudrais
-- large - grand/grande
-- many - beaucoup
 - me - moi
 - Mexican - mexicain/mexicaine
 - Mexico - Mexique
 - my - mon/ma/mes
 - my name is - je m'appelle
-- nice to meet you - enchanté/enchantée
-- nobody - personne
-- no one - personne
-- of - de
-- one (num.) - un/une
+- no one; nobody - personne
 - open - ouvert/ouverte
 - or - ou
 - please - s'il vous plaît
 - see you soon - à bientôt
 - see you tomorrow - à demain
 - small - petit/petite
-- smart - intelligent/intelligente
 - Spain - Espagne
 - Spanish - espagnol/espagnole
-- thanks - merci
-- thank you - merci
+- thank you; thanks - merci
 - thank you very much - merci beaucoup
-- that (pronoun) - cela (formal); ça (informal)
-- the age - l'ère (f.); l'âge (m.)
-- the airplane - l'avion (m.)
+- that (pronoun) - cela (formal); ce/cette; ça (informal)
+- the age - l'âge (m.)
+- the airplane; the plane - l'avion (m.)
 - the airport - l'aéroport (m.)
 - the apartment - l'appartement (m.)
 - the baby - le bébé
@@ -79,42 +68,37 @@
 - the bread - le pain
 - the brother - le frère
 - the bus - le bus
-- the cafe - le café
+- the cafe; the coffee - le café
 - the car - la voiture
 - the cat - le chat
 - the check (bill) - l'addition (f.)
 - the cheese - le fromage
 - the chocolate - le chocolat
-- the cinema - le cinéma
-- the coffee - le café
-- the college - le collège; l'université (f.)
+- the cinema; the movie theater - le cinéma
+- the college - le collège
 - the croissant - le croissant
-- the cup - la tasse
-- the daughter - la fille
+- the cup; the mug - la tasse
+- the daughter; the girl - la fille
 - the dessert - le dessert
 - the dog - le chien
 - the family - la famille
 - the father - le père
 - the garden - le jardin
-- the girl - la fille
 - the glass (drinking) - le verre (à boire)
 - the grandfather - le grand-père
 - the grandmother - la grand-mère
-- the home - la maison
+- the home; the house - la maison
 - the horse - le cheval
 - the hospital - l'hôpital (m.)
 - the hotel - l'hôtel (m.)
-- the house - la maison
 - the husband - le mari
-- the job - le travail; l'emploi (m.)
-- the journalist - le journaliste; la journaliste
+- the job - l'emploi (m.)
+- the journalist - le journaliste/la journaliste
 - the juice - le jus
 - the - le (m.)/la (f.)/les (pl.)
 - the man - l'homme (m.)
 - the mother - la mère
-- the movie theater - le cinéma
-- themselves - eux-mêmes; elles-mêmes
-- the mug - la tasse
+- themselves - eux-mêmes/elles-mêmes
 - the music - la musique
 - the orange - l'orange (f.)
 - the owl - la chouette; le hibou
@@ -125,7 +109,6 @@
 - the pet - l'animal de compagnie
 - the pharmacy - le pharmacie
 - the pizza - la pizza
-- the plane - l'avion (m.)
 - the plane ticket - le billet d'avion
 - the professor - le professeur/la professeure
 - the relative - le parent
@@ -149,45 +132,37 @@
 - the university - l'université (f.)
 - the waiter/waitress - le serveur/la serveuse
 - the water - l'eau (f.)
-- the wife - la femme; l'épouse (f.)
+- the wife - l'épouse (f.)
 - the wine - le vin
 - the woman - la femme
 - the work - le travail
 - the year - l'an/l'année
-- they - ils; elles
+- they - ils/elles
 - the zoo - le zoo
-- this - ce/cet (m.); cette (f.); ceci (formal); ça (informal)
+- this - ce/cet (m.); ceci (formal); cela (formal)
+- this - ce/cet (m.); ceci (formal); cette (f.); ça (informal)
 - three - trois
-- to - à
 - to be - être
-- to dwell - habiter
+- to dwell; to live in - habiter
 - to eat - manger
 - to excuse - excuser
 - to go - aller
 - to have - avoir
-- to like - aimer
-- to live in - habiter
-- to love - aimer
-- too (as well) - aussi
-- too (excessively) - trop
-- too much - trop
+- to like; to love - aimer
+- too (excessively); too much - trop
 - to read - lire
-- to speak - parler
+- to speak; to talk - parler
 - to study - étudier
 - to take - prendre
-- to talk - parler
 - to the - au
 - to want - vouloir
 - to work - travailler
 - two - deux
-- us - nous
+- us; we - nous
 - very - très
 - welcome - bienvenue
-- well - bien
-- we - nous
-- what is your name? - comment vous appelez-vous?;  comment tu t'appelles?
+- what is your name? - comment tu t'appelles?; comment vous appelez-vous?
 - with - avec
 - yes - oui
 - yourself - toi-même; vous-même
-- your - ton (m.); ta (f.); votre (formal); vos (formal pl.)
-- you - tu (informal); vous (formal or plural)
+- your - ta (f.); ton (m.); vos (formal pl.); votre (formal)
