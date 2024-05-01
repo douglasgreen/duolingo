@@ -1,8 +1,7 @@
 - a/an - un/una
 - but - ma
-- bye; hello; hi - ciao; salve
-- goodbye - arrivederci
-- hello - ciao; salve
+- bye; goodbye - arrivederci; ciao
+- hello; hi - ciao; salve
 - no - no
 - one (num.) - uno
 - please - per favore
