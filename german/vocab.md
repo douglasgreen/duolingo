@@ -10,7 +10,6 @@
 - big - groß
 - but - aber
 - bye - tschüss
-- by - von
 - Canada - Kanada
 - cheap - billig
 - cheers (as a toast) - Prost
@@ -24,6 +23,7 @@
 - exciting (adj.) - aufregend
 - expensive - teuer
 - far away - weit weg
+- few - wenig
 - fine - gut
 - five - fünf
 - four - vier
@@ -57,7 +57,7 @@
 - large - groß
 - later - später
 - left (side) - links
-- little - klein; wenig
+- little - klein
 - loud - laut
 - loudly - laut
 - mine - mein/meine
@@ -87,7 +87,7 @@
 - on the right - rechts
 - or - oder
 - ouch - au
-- out - aus
+- out of - aus
 - over there - da drüben
 - please - bitte
 - really - wirklich
