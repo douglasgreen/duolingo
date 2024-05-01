@@ -1,5 +1,5 @@
 - a/an - unus/una (depending on gender)
-- all right - bene
+- all right; fine; well - bene
 - alone - solus
 - also - etiam; quoque
 - America - America
@@ -13,36 +13,31 @@
 - before - ante
 - best - optimus
 - better - melior
-- big - magnus
+- big; large - magnus
 - busy - occupatus
 - but - sed
-- by - a/ab (depending on the following word)
+- by; from - a/ab (depending on the following word)
 - calm - placidus; tranquillus
-- concerned - sollicitus
+- concerned; stressful; worried - sollicitus
 - daily - cotidie
 - dining room - triclinium
 - drunk - ebrius
-- dutiful - pius
+- dutiful; pious - pius
 - fat - pinguis
-- female - femina
-- fine - bene
+- female; the woman - femina
 - five - quinque
 - four - quattuor
-- from - a/ab (depending on the following word)
 - from where - unde
 - happy - felix; laetus
 - healthy - sanus
 - he - is (m.)
-- hello - salve/salvete
-- her (poss.) - eius
+- hello; hi; welcome - salve/salvete
 - her (obj.) - eam
-- hers - eius
+- her (poss.); hers; his - eius
 - herself - se ipsa
 - him - eum
 - himself - se ipsum
-- hi - salve/salvete
-- his - eius
-- holy - sacer; sanctus
+- holy; sacred - sacer; sanctus
 - how are you - quid agis
 - how many - quot
 - how much - quantum
@@ -51,9 +46,8 @@
 - in - in
 - its - eius (of it, possessive)
 - kind (adj.) - benignus
-- large - magnus
 - Latin - Latinus
-- lazy - piger; ignavus
+- lazy - ignavus; piger
 - leisurely - otiosus
 - long - longus
 - many - multi
@@ -62,25 +56,21 @@
 - no - minime
 - not - non
 - OK - bene (informal, not a direct equivalent)
-- old - vetus; senilis
+- old - senilis; vetus
 - one (num.) - unus
-- our - noster
-- ours - noster
+- our; ours - noster
 - perhaps - fortasse
 - Philadelphia - Philadelphia
-- pious - pius
 - please - quaeso (in asking politely)
-- quiet - tacitus; quietus
+- quiet - quietus; tacitus
 - red - ruber
 - rich - pecuniosus
-- sacred - sacer
 - salty - salsus
 - she - ea
 - sick - aeger
 - skilled - peritus
 - so - ita
 - sometimes - interdum
-- stressful - sollicitus
 - strict - severus
 - surely not - num
 - ten - decem
@@ -88,18 +78,17 @@
 - the accountant - ratiocinator (m.)
 - the actor/actress - histrio/histrionissa
 - the ally - socius
-- the altar - ara; altare (nt.)
+- the altar - altare (nt.); ara
 - the architect - architectus
 - the baker - pistor (m.)
-- the bar (tavern) - taberna
+- the bar (tavern); the shop - taberna
 - the bed - lectus
 - the bone - ossum
 - the book - liber (m.)
-- the boy - puer (m.)
+- the boy; the child - puer (m.)
 - the bread - panis (m.)
 - the brother - frater (m.)
 - the building - aedificium
-- the child - puer (m.)
 - the city - urbs (f.)
 - the client - cliens (m.)
 - the coin - nummus
@@ -107,40 +96,35 @@
 - the cookie - crustulum
 - the courier - tabellarius
 - the cup - poculum
-- the dad - pater (m.)
+- the dad; the father - pater (m.)
 - the dinner - cena
 - the doctor - medicus/medica
 - the egg - ovum
 - the family - familia
 - the farmer - agricola
-- the father - pater (m.)
 - the field - ager (m.)
 - the fish - piscis (m.)
 - the fish sauce - garum
 - the floor - pavimentum
-- the food - cibus
-- the forum - forum
-- the game - ludus
+- the food; the meal - cibus
+- the forum; the marketplace; the plaza - forum
+- the game; the sport - ludus
 - the girl - puella
 - the gladiator - gladiator (m.)
 - the grave - sepulchrum
 - the head of the house - pater familias (m.) (literally "father of the family" but used for head of the house)
-- the home - domus
-- the house - domus
+- the home; the house - domus
 - the husband - maritus
 - the inn - caupona
 - the journey - iter (nt.)
-- the language - lingua
+- the language; the tongue - lingua
 - the literature - litterae (f.)
 - the lunch - prandium
 - the man - vir (m.)
-- the marketplace - forum
-- the meal - cibus
 - the meat - caro
 - the merchant - mercator (m.)
-- the mom - mater (f.)
+- the mom; the mother - mater (f.)
 - the money - pecunia
-- the mother - mater (f.)
 - the old man - senex (m.)
 - the old woman - anus
 - the olive - oliva
@@ -150,31 +134,25 @@
 - the patron - patronus
 - the peacock - pavo, pavonis
 - the plate - patella
-- the plaza - forum
-- the poem - carmen (nt.)
+- the poem; the song - carmen (nt.)
 - the poet - poeta
 - the professor - professor (m.)
 - the relative - cognatus; familiaris
-- the school - ludus; schola
+- the school - schola
 - the seer - vates (m./f.)
 - these - hi (m.)/hae (f.)
-- the shop - taberna
 - the sister - soror (f.)
 - the soldier - miles (m.)
 - the son - filius
-- the song - carmen (nt.)
-- the sport - ludus
 - the stage - scaena
 - the student - discipulus/discipula
 - the table - mensa
 - the teacher - magister/magistra
 - the temple - templum
 - the theater - theatrum
-- the tongue - lingua
 - the university - universitas (f.)
 - the wife - uxor (f.)
 - the wine - vinum
-- the woman - femina
 - they - ii (m.)/eae (f.)/ea (nt.)
 - the young man - iuvenis (m.)
 - the young woman - iuvenis feminina (used for both young man and woman, context specific)
@@ -201,11 +179,10 @@
 - to have - habere
 - to know (a fact) - scire
 - to learn - discere
-- to like - placere
+- to like; to please - placere
 - to love - amare
 - to make - facere
 - to paint - pingere
-- to please - placere
 - to read - legere
 - to sacrifice - sacrificare
 - to sell - vendere
@@ -221,19 +198,15 @@
 - to write - scribere
 - twenty - viginti
 - two - duo
-- unhappy - miser; infelix
-- us - nos
+- unhappy - infelix; miser
+- us; we - nos
 - very many - plurimi
-- welcome - salve/salvete
-- well - bene
-- we - nos
 - what - quid
 - where - ubi
 - which - quis (m.)/quae (f.)
 - who - quis
 - wicked - impius; pravus
 - with - cum
-- worried - sollicitus
 - yes - ita (formal); sic (affirmative response)
 - young - iuvenis
 - yours - tuus/tua/tuum (depending on the gender of the object referred to)
