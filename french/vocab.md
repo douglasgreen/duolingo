@@ -20,6 +20,7 @@
 - good evening - bonne soirée; bonsoir
 - good morning; hello - bonjour
 - good night - bonne nuit
+- green - vert
 - happy - content/contente; heureux/heureuse
 - he - il
 - here - ici
@@ -62,6 +63,7 @@
 - the bank - la banque
 - the bathroom - la toilette
 - the beer - la bière
+- the bike - vélo
 - the book - le livre
 - the bottle - la bouteille
 - the boy - le garçon
@@ -75,6 +77,7 @@
 - the cheese - le fromage
 - the chocolate - le chocolat
 - the cinema; the movie theater - le cinéma
+- the city - la ville
 - the college - le collège
 - the croissant - le croissant
 - the cup; the mug - la tasse
@@ -110,6 +113,7 @@
 - the pharmacy - le pharmacie
 - the pizza - la pizza
 - the plane ticket - le billet d'avion
+- the plant - la plante
 - the professor - le professeur/la professeure
 - the relative - le parent
 - the restaurant - le restaurant
