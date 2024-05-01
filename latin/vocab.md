@@ -62,7 +62,7 @@
 - not - non
 - OK - bene (informal, not a direct equivalent)
 - old - vetus; senilis
-- one - unus
+- one (num.) - unus
 - our - noster
 - ours - noster
 - perhaps - fortasse

@@ -212,7 +212,7 @@
 - once - una vez
 - on - en
 - one quarter - un cuarto
-- one - uno
+- one (num.) - uno
 - only - solo
 - on the left - a la izquierda
 - on the right - a la derecha

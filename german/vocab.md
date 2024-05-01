@@ -81,7 +81,7 @@
 - oh - ach; oh
 - OK - OK
 - old - alt
-- one - eins
+- one (num.) - eins
 - on the left - links
 - on the right - rechts
 - or - oder

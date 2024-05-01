@@ -1,4 +1,4 @@
-- a/an - unu; iu
+- a; an - unu; iu
 - about - pri
 - Africa - Afriko
 - African - Afrika
@@ -126,7 +126,8 @@
 - often - ofte
 - OK - Bone
 - old - maljuna
-- one - unu; oni
+- one (num.) - unu
+- one (pron.) - oni
 - only - nur
 - on - sur
 - on the left - maldekstre

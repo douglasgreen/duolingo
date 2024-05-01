@@ -5,7 +5,7 @@
 - hello - salve; ciao
 - hi - ciao
 - no - no
-- one - uno
+- one (num.) - uno
 - please - per favore
 - thanks - grazie
 - thank you - grazie

@@ -49,7 +49,7 @@
 - nobody - personne
 - no one - personne
 - of - de
-- one - un/une
+- one (num.) - un/une
 - open - ouvert/ouverte
 - or - ou
 - please - s'il vous plaît
