@@ -1,4 +1,3 @@
-- a; an - unu; iu
 - about - pri
 - Africa - Afriko
 - African - Afrika
