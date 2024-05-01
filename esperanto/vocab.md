@@ -13,6 +13,7 @@
 - America - Ameriko
 - American - Amerika
 - and - kaj
+- antique - antikva
 - any - iu
 - anyone - iu ajn
 - anything - io ajn
@@ -176,6 +177,7 @@
 - the apple - la pomo
 - the aut - la onklino
 - the autumn (fall) - la aŭtuno
+- the basket - la korbo
 - the bathroom - la necesejo; la banĉambro
 - the battery - la baterio
 - the bear - la urso
@@ -187,6 +189,7 @@
 - the bird - la birdo
 - the book - la libro
 - the boot - la boto
+- the box; the chest - la kesto
 - the boyfriend - la koramiko
 - the boy - la knabo
 - the bread - la pano
@@ -201,6 +204,7 @@
 - the car - la aŭto
 - the carrot - la karoto
 - the cat - la kato
+- the cellphone; the mobile phone - la poŝtelefono
 - the cheese - la fromaĝo
 - the chicken (bird) - la koko; la kokino
 - the chicken (meat) - la kokaĵo
@@ -271,10 +275,12 @@
 - the kitten - la katido
 - the - la
 - the lamb - la ŝafido
+- the lamp - la lampo
 - the language - la lingvo
 - the letter (written communication) - la letero
 - the liter - la litro
 - the lunch - la tagmanĝo
+- the magazine; the newspaper - la gazeto
 - the mango - la mango
 - the man - la viro
 - the map - la mapo
@@ -363,6 +369,7 @@
 - the T-shirt - la T-ĉemizo
 - the tutor - la instruisto
 - the twin - la ĝemelo
+- the umbrella - la ombrelo
 - the uncle - la onklo
 - the underwear - la kalsono
 - the university - la universitato
@@ -418,6 +425,7 @@
 - to excuse - pardoni
 - to expect - atendi
 - to fear - timi
+- to find - trovi
 - to finish - fini
 - to fly - flugi
 - to fold - faldi
