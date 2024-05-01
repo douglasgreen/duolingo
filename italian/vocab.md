@@ -1,14 +1,12 @@
 - a/an - un/una
 - but - ma
-- bye - ciao
+- bye; hello; hi - ciao; salve
 - goodbye - arrivederci
-- hello - salve; ciao
-- hi - ciao
+- hello - ciao; salve
 - no - no
 - one (num.) - uno
 - please - per favore
-- thanks - grazie
-- thank you - grazie
+- thank you; thanks - grazie
 - the cafe - il caffè (locale)
 - the cappuccino - il cappuccino
 - the coffee - il caffè
