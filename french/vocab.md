@@ -136,7 +136,7 @@
 - the university - l'université (f.)
 - the waiter/waitress - le serveur/la serveuse
 - the water - l'eau (f.)
-- the wife - l'épouse (f.)
+- the wife - l'épouse (f.); la femme
 - the wine - le vin
 - the woman - la femme
 - the work - le travail
@@ -144,7 +144,6 @@
 - they - ils/elles
 - the zoo - le zoo
 - this - ce/cet (m.); ceci (formal); cela (formal)
-- this - ce/cet (m.); ceci (formal); cette (f.); ça (informal)
 - three - trois
 - to be - être
 - to dwell; to live in - habiter
@@ -170,3 +169,4 @@
 - yes - oui
 - yourself - toi-même; vous-même
 - your - ta (f.); ton (m.); vos (formal pl.); votre (formal)
+- you - tu (informal); vous (formal or plural)
