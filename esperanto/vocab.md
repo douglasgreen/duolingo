@@ -478,4 +478,5 @@
 - yes - jes
 - you are welcome - nedankinde
 - young - juna
+- your; yours - via
 - you - vi
