@@ -53,7 +53,7 @@
 - I - ich
 - in - in
 - interesting - interessant
-- its - sein; ihr
+- its - sein/ihr
 - large - groß
 - later - später
 - left (side) - links
@@ -233,8 +233,8 @@
 - wonderful - wunderbar
 - yes - ja
 - you are welcome - gern geschehen; bitte schön
-- you - du; ihr; Sie
+- you - du/ihr/Sie
 - young - jung
-- your - dein; euer; Ihr
-- yours - deins; eures; Ihres
+- your - dein/euer/Ihr
+- yours - deins/eures/Ihres
 - zero - null
