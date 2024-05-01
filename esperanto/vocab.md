@@ -3,35 +3,34 @@
 - African - Afrika
 - again - denove
 - a little - iomete
-- all right - bone
-- all the time - ĉiam
+- all right; fine; well - bone
+- all the time; always - ĉiam
 - alone - sola
 - a lot - multe
-- also - ankaŭ
-- always - ĉiam
+- also; too (as well) - ankaŭ
 - America - Ameriko
 - American - Amerika
 - and - kaj
 - antique - antikva
-- any - iu
 - anyone - iu ajn
+- any; somebody; someone - iu
 - anything - io ajn
 - Argentina - Argentino
 - as big as - tiel granda kiel
-- as - kiel
+- as; how; like (in a similar way) - kiel
 - Australia - Aŭstralio
 - Australian - aŭstraliano
-- bad - malbona
-- beautiful - bela
+- bad; wicked - malbona
+- beautiful; nice; pretty - bela
 - because - ĉar
-- big - granda
+- big; large - granda
 - black - nigra
 - blue - blua
 - both - ambaŭ
 - Brazil - Brazilo
 - brown - bruna
 - but - sed
-- bye - ĝis
+- bye; see you; till (until) - ĝis
 - Canada - Kanado
 - Canadian - kanada
 - Chilean - ĉilia
@@ -44,9 +43,9 @@
 - dark - malhela
 - dear - kara
 - delicious - bongusta
-- difficult - malfacila
+- difficult; hard (not easy) - malfacila
 - easy - facila
-- either - aŭ
+- either; or - aŭ
 - England - Anglio
 - English - angla
 - Esperantist - esperantisto
@@ -54,8 +53,7 @@
 - European - eŭropa
 - Europe - Eŭropo
 - excuse me - pardonu min
-- fast - rapide
-- fine - bone
+- fast; quickly - rapide
 - for - por
 - France - Francio
 - French - franca
@@ -71,93 +69,71 @@
 - Great Britain - Granda Britio
 - green - verda
 - happy - feliĉa
-- hard (not easy) - malfacila
 - hard (not soft) - malmola
 - he - li
-- hello - saluton
+- hello; hi - saluton
 - here - ĉi tie
 - her (obj.) - ŝin
-- her (poss.) - ŝia
-- hers - ŝia
+- her (poss.); hers - ŝia
 - him - lin
-- hi - saluton
 - his - lia
 - how are you - kiel vi fartas
-- how - kiel
-- how many - kiom
-- how much - kiom
+- how many; how much - kiom
 - if - se
 - I - mi
 - important - grava
 - in - en
-- in that way - tiel
+- in that way; so (in that manner) - tiel
 - Italian - itala
 - Italy - Italio
 - it - ĝi
 - its - ĝia
 - Japanese - japana
 - Japan - Japanio
-- large - granda
-- later - poste; pli malfrue
+- later - pli malfrue; poste
 - left (side) - maldekstra
-- leisurely - malrapide
+- leisurely; slowly - malrapide
 - light (not dark) - hela
-- like (in a similar way) - kiel
-- little - malgranda
+- little; small - malgranda
 - London - Londono
 - long - longa
 - many - multaj
 - me - min
 - Mexican - meksika
 - Mexico - Meksiko
-- mine - mia
+- mine; my - mia
 - more - pli
 - more than - pli ol
-- my - mia
 - my own - mia propra
-- neither - nek
+- neither; nor - nek
 - never mind - ne gravas
-- nice - bela
-- no - ne
-- nor - nek
+- no; not - ne
 - North America - Nordameriko
-- not - ne
-- of - de; da
+- of - da; de
 - often - ofte
 - OK - Bone
 - old - maljuna
 - one (num.) - unu
 - one (pron.) - oni
 - only - nur
-- on - sur
+- on; onto - sur
 - on the left - maldekstre
 - on the right - dekstre
-- onto - sur
-- or - aŭ
-- our - nia
-- ours - nia
+- our; ours - nia
 - Paris - Parizo
 - please - bonvolu
 - Poland - Pollando
 - Polish - pola
-- pretty - bela
-- quickly - rapide
 - quick - rapida
 - red - ruĝa
 - right (side) - dekstra
 - Russian - rusa
 - Russia - Rusio
 - same - sama
-- see you - ĝis
-- see you later - ĝis poste; ĝis la revido
+- see you later - ĝis la revido; ĝis poste
 - short - mallonga
-- slowly - malrapide
 - slow - malrapida
-- small - malgranda
 - soft - mola
-- so (in that manner) - tiel
-- somebody - iu
-- someone - iu
 - something - io
 - somewhat - iom
 - so much - tiom
@@ -165,27 +141,27 @@
 - Spain - Hispanio
 - Spanish - hispana
 - sweet - dolĉa
-- thanks - dankon
-- thank you - dankon
+- thank you; thanks - dankon
 - than - ol
 - that (indirect speech) - ke
-- that (pronoun) - tiu; tio
+- that (pronoun) - tio; tiu
 - the address - la adreso
 - the alligator - la aligatoro
 - the animal - la besto
-- the answer - la respondo
+- the answer; the response - la respondo
 - the appetite - la apetito
 - the apple - la pomo
 - the aut - la onklino
 - the autumn (fall) - la aŭtuno
 - the basket - la korbo
-- the bathroom - la necesejo; la banĉambro
+- the bathroom - la banĉambro; la necesejo
 - the battery - la baterio
 - the bear - la urso
 - the beef - la bovaĵo
 - the bee - la abelo
 - the beer - la biero
-- the beginner - la komenco; la komencanto
+- the beginner - la komencanto
+- the beginning - la komenco
 - the belt - la zono
 - the bird - la birdo
 - the book - la libro
@@ -201,17 +177,17 @@
 - the button - la butono
 - the cafe - la kafejo
 - the cake - la kuko
-- the cap - la ĉapelo
+- the cap; the hat - la ĉapelo
 - the car - la aŭto
 - the carrot - la karoto
 - the cat - la kato
 - the cellphone; the mobile phone - la poŝtelefono
 - the cheese - la fromaĝo
-- the chicken (bird) - la koko; la kokino
+- the chicken (bird) - la kokino; la koko
 - the chicken (meat) - la kokaĵo
-- the child - la infano; la gefilo
+- the child - la gefilo; la infano
 - the chocolate - la ĉokolado
-- the city - la urbo
+- the city; the town - la urbo
 - the clock - la horloĝo
 - the coat - la mantelo
 - the color - la koloro
@@ -223,7 +199,7 @@
 - the cousin - la kuzo
 - the cow - la bovino
 - the crocodile - la krokodilo
-- the cup - la taso
+- the cup; the mug - la taso
 - the dad - la paĉjo
 - the dance - la danco*
 - the daughter - la filio
@@ -233,23 +209,22 @@
 - the dinner - la vespermanĝo
 - the dog - la hundo
 - the door - la pordo
-- the dress - la robo
+- the dress; the robe - la robo
 - the drink - la trinkaĵo
 - the egg - la ovo
 - the family - la familio
 - the father-in-law - la bopatro
 - the father - la patro
 - the fat - la graso
+- the female friend - la amikino
 - the fish (animal) - la fiŝo
 - the fish (meat) - la fiŝaĵo
 - the flag - la flago
 - the flower - la floro
 - the fly - la muŝo
 - the food - la manĝaĵo
-- the friend - la amiko
-- the friend - la geamiko
+- the friend - la amiko; la geamiko
 - the fruit - la frukto
-- the girlfriend - la amikino
 - the girlfriend - la koramikino
 - the girl - la knabino
 - the glass (drinking) - la glaso
@@ -260,7 +235,6 @@
 - the grandson - la nepo
 - the great-grandfather - la praavo
 - the great-grandmother - la praavino
-- the hat - la ĉapelo
 - the help - la helpo
 - the home - la hejmo
 - the horse - la ĉevalo
@@ -268,9 +242,8 @@
 - the husband - la edzo
 - the ice - la glacio
 - the insect - la insekto
-- their - ilia
-- theirs - ilia
-- the job - la laboro
+- their; theirs - ilia
+- the job; the work - la laboro
 - the juice - la suko
 - the kilogram - la kilogramo
 - the kitten - la katido
@@ -281,7 +254,6 @@
 - the letter (written communication) - la letero
 - the liter - la litro
 - the lunch - la tagmanĝo
-- the magazine; the newspaper - la gazeto
 - the mango - la mango
 - the man - la viro
 - the map - la mapo
@@ -293,18 +265,16 @@
 - them - ilin
 - the milk - la lakto
 - the mom - la panjo
-- the mom - la patrino
 - the money - la mono
 - the morning - la mateno
 - the mother-in-law - la bopatrino
 - the mother - la patrino
 - the motor - la motoro
 - the mouse - la muso
-- the mug - la taso
 - the name - la nomo
 - the nephew - la nevo
 - the nephew or niece - la genevo
-- the newspaper - la ĵurnalo
+- the newspaper - la gazeto; la ĵurnalo
 - the niece - la nevino
 - the night - la nokto
 - the office - la oficejo
@@ -316,9 +286,8 @@
 - the pajamas - la piĵamo
 - the pants - la pantalono
 - the pasta - la paŝtaĵo
-- the phone - la telefono
-- the photograph - la foto
-- the photo - la foto
+- the phone; the telephone - la telefono
+- the photo; the photograph - la foto
 - the pig - la porko
 - the pineapple - la ananaso
 - the pizza - la pico
@@ -330,13 +299,10 @@
 - the question - la demando
 - the rabbit - la kuniklo
 - the recipe - la recepto
-- the response - la respondo
 - the restaurant - la restoracio
 - there - tie
 - the rice - la rizo
-- the robe - la robo
-- the room - ĉambro
-- the room - la ĉambro
+- the room - la ĉambro; ĉambro
 - the salt - la salo
 - the sandal - la sandalo
 - the sandwich - la sandviĉo
@@ -362,13 +328,10 @@
 - the summer - la somero
 - the sun - la suno
 - the tail - la vosto
-- the teacher - la instruisto
+- the teacher; the tutor - la instruisto
 - the tea - la teo
-- the telephone - la telefono
 - the tomato - la tomato
-- the town - la urbo
 - the T-shirt - la T-ĉemizo
-- the tutor - la instruisto
 - the twin - la ĝemelo
 - the umbrella - la ombrelo
 - the uncle - la onklo
@@ -384,7 +347,6 @@
 - the winter - la vintro
 - the woman - la virino
 - the word - la vorto
-- the work - la laboro
 - the wristwatch - la brakhorloĝo
 - they - ili
 - the zipper - la zipo
@@ -392,22 +354,21 @@
 - those - tiuj
 - three - tri
 - through - tra
-- till (until) - ĝis
 - to accept - akcepti
 - to act - agi
 - to - al
 - to answer - respondi
 - to ask - demandi
-- to ask for - peti
-- to be able - povi; kapabli
+- to ask for; to request - peti
+- to be able - kapabli; povi
 - to be allowed - rajti
 - to be - esti
-- to begin - komenci
+- to begin; to start - komenci
 - to be old - aĝi
 - to be right - pravi
 - to be wrong - malpravi
 - to buy - aĉeti
-- to call - voki; telefoni
+- to call - telefoni; voki
 - to carry - porti
 - to catch - kapti
 - to change - ŝanĝi
@@ -423,14 +384,13 @@
 - to eat dinner - vespermanĝi
 - to eat lunch - tagmanĝi
 - to eat - manĝi
-- to excuse - pardoni
-- to expect - atendi
+- to excuse; to forgive - pardoni
+- to expect; to wait; to wait for - atendi
 - to fear - timi
 - to find - trovi
 - to finish - fini
 - to fly - flugi
 - to fold - faldi
-- to forgive - pardoni
 - together - kune
 - to give - doni
 - to go - iri
@@ -446,12 +406,11 @@
 - to listen - aŭskulti
 - to live - vivi
 - to look at - rigardi al
-- to look - rigardi
+- to look; to watch - rigardi
 - to love - ami
 - to make - fari
 - to meet - renkonti
 - to need - bezoni
-- too (as well) - ankaŭ
 - too (excessively) - tro
 - too many - tro multaj
 - too much - tro multe
@@ -459,7 +418,6 @@
 - to order - mendi
 - to rain - pluvi
 - to read - legi
-- to request - peti
 - to run - kuri
 - to say - diri
 - to see - vidi
@@ -473,15 +431,13 @@
 - to sleep - dormi
 - to smell - flari; odori
 - to snow - neĝi
-- to speak - paroli
+- to speak; to talk - paroli
 - to stand - stari
-- to start - komenci
 - to study - studi
 - to take care of - zorgi pri
 - to talk about - paroli pri
-- to talk - paroli
 - to taste - gustumi
-- to tell - diri; rakonti
+- to tell - rakonti
 - to thank - danki
 - to think - pensi
 - to travel - vojaĝi
@@ -491,10 +447,7 @@
 - to understand - kompreni
 - to use - uzi
 - to visit - viziti
-- to wait - atendi
-- to wait for - atendi
-- to watch - rigardi
-- to wear - porti; surhavi
+- to wear - surhavi
 - to where - kien
 - to work - labori
 - to write - skribi
@@ -509,25 +462,20 @@
 - very - tre
 - warm (adj.) - varma
 - welcome - bonvenon
-- well - bone
 - we - ni
 - what - kio
 - when - kiam
 - where - kie
 - whether - ĉu
-- which - kiu
+- which; who - kiu
 - white - blanka
-- who - kiu
 - whom - kiun
 - whose - kies
 - why - kial
-- wicked - malbona
 - with - kun
 - without - sen
 - yellow - flava
 - yes - jes
 - you are welcome - nedankinde
 - young - juna
-- yours - via
-- your - via
 - you - vi
