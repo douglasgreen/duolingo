@@ -225,6 +225,7 @@
 - sad - triste
 - same - mismo
 - Saturday - sábado
+- secure; sure - securo
 - see you later - hasta luego
 - see you tomorrow - hasta mañana
 - September - septiembre
@@ -361,12 +362,14 @@
 - the face - la cara
 - the factory - la fábrica
 - the family - la familia
+- the farm - la granja
 - the father - el padre
 - the fear - el miedo
 - the film; the movie - la película
 - the fish (animal) - el pez
 - the fish (meat) - el pescado
 - the fitting room - el probador
+- the floor - el piso
 - the flower - la flor
 - the food; the meal - la comida
 - the foot - el pie
@@ -382,6 +385,7 @@
 - the glasses (spectacles) - las gafas; los anteojos; los/las lentes
 - the grandfather - el abuelo
 - the grandmother - la abuela
+- the grass - el césped; la hierba
 - the group - el grupo
 - the guitar - la guitarra
 - the hair - el cabello
@@ -532,6 +536,7 @@
 - the vegetable - el vegetal; la verdura
 - the waiter/waitress - el camarero/la camarera
 - the wallet - la cartera
+- the wall - la pared
 - the water - el agua
 - the weather - el tiempo (meteorológico)
 - the weekend - el fin de semana
