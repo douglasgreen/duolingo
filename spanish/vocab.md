@@ -1,7 +1,6 @@
 - about; onto; over - sobre
 - after - después
 - again - otra vez
-- agreed; OK - de acuerdo
 - a little - un poco
 - alive - vivo
 - all; everything - todo
@@ -19,7 +18,6 @@
 - April (month) - abril
 - at; in; on - en
 - August (month) - agosto
-- badly - incorrecto
 - bad - malo
 - beautiful - bello; hermoso
 - because - porque
@@ -196,6 +194,7 @@
 - of course - por supuesto
 - often - a menudo
 - of the - del (m.)
+- OK; agreed - de acuerdo
 - older - mayor
 - old - viejo
 - once - una vez
