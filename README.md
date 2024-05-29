@@ -1,6 +1,10 @@
 # duolingo
 My personal repository of Duolingo vocabulary and notes
 
+## Setup
+
+See [Project Setup Guide](docs/setup_guide.md).
+
 ## Abbreviations
 * m. = masculine
 * f. = feminine
