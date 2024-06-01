@@ -193,6 +193,7 @@
 - to throw - iacere
 - to travel - iter facere
 - to visit - visitare
+- to visit a patron - salutationem facere
 - to want - velle
 - to where - quo
 - to write - scribere

@@ -599,6 +599,7 @@
 - to get up - levantarse
 - to give - dar
 - to go - ir
+- to go out to dinner - salir a cenar
 - to have - tener
 - to have to - tener que
 - to help - ayudar
