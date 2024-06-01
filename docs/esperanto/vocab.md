@@ -151,7 +151,7 @@
 - the answer; the response - la respondo
 - the appetite - la apetito
 - the apple - la pomo
-- the aut - la onklino
+- the aunt - la onklino
 - the autumn (fall) - la aŭtuno
 - the basket - la korbo
 - the bathroom - la banĉambro; la necesejo
