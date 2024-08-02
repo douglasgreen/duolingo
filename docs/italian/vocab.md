@@ -1,18 +1,18 @@
-- a/an - un/una
-- but - ma
-- bye; goodbye - arrivederci; ciao
-- hello; hi - ciao; salve
-- no - no
-- one (num.) - uno
-- please - per favore
-- thank you; thanks - grazie
-- the cafe - il caffè (locale)
-- the cappuccino - il cappuccino
-- the coffee - il caffè
-- the croissant - la cornetto
-- the ice cream - il gelato
-- the milk - il latte
-- the sugar - lo zucchero
-- the tea - il tè
-- with - con
-- yes - sì
+-   a/an - un/una
+-   but - ma
+-   bye; goodbye - arrivederci; ciao
+-   hello; hi - ciao; salve
+-   no - no
+-   one (num.) - uno
+-   please - per favore
+-   thank you; thanks - grazie
+-   the cafe - il caffè (locale)
+-   the cappuccino - il cappuccino
+-   the coffee - il caffè
+-   the croissant - la cornetto
+-   the ice cream - il gelato
+-   the milk - il latte
+-   the sugar - lo zucchero
+-   the tea - il tè
+-   with - con
+-   yes - sì

@@ -1,707 +1,709 @@
-- about; onto; over - sobre
-- after - después
-- again - otra vez
-- a little - un poco
-- alive - vivo
-- all; everything - todo
-- all the time - todo el tiempo
-- alone; only - solo
-- a lot - mucho
-- already - ya
-- also; too (as well) - también
-- always - siempre
-- America - América
-- American - americano
-- angry - enojado
-- another; other - otro
-- any - alguno; cualquier
-- April (month) - abril
-- at; in; on - en
-- August (month) - agosto
-- bad - malo
-- beautiful - bello; hermoso
-- because - porque
-- before - antes
-- best - el mejor
-- better - mejor
-- big; large - grande
-- black - negro
-- blond (hair) - rubio
-- blue - azul
-- bored; boring - aburrido
-- both - ambos
-- brown - marrón
-- but - pero
-- bye; goodbye - adiós
-- by; per (for each) - por
-- cheap - barato
-- Chilean - chileno
-- Chile - Chile
-- China - China
-- Chinese - chino
-- clean (adj.) - limpio
-- clear; light (not dark) - claro
-- close (adj.); near - cerca
-- closed - cerrado
-- close to - cerca de
-- cloudy - nublado
-- cold - frío
-- comfortable - cómodo
-- concerned; worried - preocupado
-- Cuba - Cuba
-- Cuban - cubano
-- daily - diario
-- dark (hair or skin) - moreno
-- dark - oscuro
-- December - diciembre
-- different - diferente
-- difficult - difícil
-- dirty - sucio
-- do you know - ¿sabes?
-- each; every - cada
-- early - temprano
-- easy - fácil
-- eighteen - dieciocho
-- eight - ocho
-- eighty - ochenta
-- elegant - elegante
-- eleven - once
-- England - Inglaterra
-- English - inglés/inglesa
-- European - europeo
-- Europe - Europa
-- everybody; everyone - todo el mundo; todos
-- excited - emocionado
-- excuse me - disculpe; discúlpame
-- expensive - caro
-- famous - famoso
-- far; far away - lejos
-- far from - lejos de
-- fast; quick - rápido
-- fat - gordo
-- favorite - favorito
-- February - febrero
-- fewer - menos
-- few - pocos
-- fifteen - quince
-- fifty - cincuenta
-- fine; well - bien
-- first - primero
-- five - cinco
-- for - para
-- forty - cuarenta
-- four - cuatro
-- fourteen - catorce
-- fourth - cuarto
-- France - Francia
-- French - francés/francesa
-- Friday - viernes
-- fried - frito
-- from; of - de
-- from where - ¿de dónde?
-- fun (adj.) - divertido
-- German - alemán
-- Germany - Alemania
-- glad; happy - contento; feliz
-- good afternoon; good evening - buenas tardes
-- good - bueno
-- good morning - buenos días
-- good night - buenas noches
-- gray - gris
-- green - verde
-- half - la mitad
-- half past - y media
-- handsome - guapo
-- he; him - él
-- hello; hi - hola
-- here - aquí
-- her (obj.) - ella
-- her (poss.) - su (de ella)
-- herself - ella misma
-- hers - suyo (de ella)
-- himself - él mismo
-- his; their - su
-- hot - caliente
-- how are you - cómo estás; qué tal
-- how - cómo
-- how do you say - ¿cómo se dice?
-- how is the weather? - ¿cómo está el tiempo?
-- how many - cuántos
-- how much - cuánto
-- how old are you? - ¿cuántos años tienes?
-- I am sorry; sorry - lo siento; perdón
-- I don't know - no sé
-- important - importante
-- in his/her opinion - para él/ella
-- intelligent; smart - inteligente
-- interesting - interesante
-- Italian - italiano
-- Italy - Italia
-- it - ello; eso
-- itself - sí mismo (ello)
-- its - su (de ello)
-- I would like - me gustaría; quisiera
-- January - enero
-- Japanese - japonés/japonesa
-- Japan - Japón
-- July - julio
-- June (month) - junio
-- later - luego; más tarde
-- late - tarde
-- lazy - perezoso
-- less than - menos de
-- light (not heavy) - ligero
-- little; small - pequeño; poco
-- long - largo
-- loud - alto (sonido)
-- low - bajo
-- madam - señora
-- many - muchos
-- March (month) - Marzo
-- May (month) - Mayo
-- me - me/mí
-- Mexican - mexicano
-- Mexico - México
-- mine - mío
-- modern - moderno
-- Monday - lunes
-- more - más
-- Mr. - señor (sr.)
-- Mrs. - señora (sra.)
-- Ms. - señorita (sra.)
-- my - mi
-- my name is - me llamo
-- my own - el mío propio/la mía propia
-- myself - yo mismo
-- nervous - nervioso
-- never - nunca
-- new - nuevo
-- next - próximo; siguiente
-- next to - al lado de
-- nice; pleasant - agradable; simpático
-- nice to meet you - encantado de conocerte; mucho gusto
-- nine - nueve
-- nineteen - diecinueve
-- ninety - noventa
-- no; not - no
-- normally - normalmente
-- normal - normal
-- nor - ni
-- nothing - nada
-- November - noviembre
-- now - ahora
-- October - octubre
-- of course - por supuesto
-- often - a menudo
-- of the - del (m.)
-- OK; agreed - de acuerdo
-- older - mayor
-- old - viejo
-- once - una vez
-- one (num.) - uno
-- one quarter - un cuarto
-- on the left - a la izquierda
-- on the right - a la derecha
-- open (adj.) - abierto
-- or - o
-- our; ours - nuestro
-- ourselves - nosotros mismos
-- over there; there - ahí; allí
-- perfect - perfecto
-- please - por favor
-- popular - popular
-- Portugal - Portugal
-- Portuguese - portugués/portuguesa
-- pretty - bonito
-- quarter past - y cuarto
-- quarter to - menos cuarto
-- ready - listo
-- really - de verdad; realmente
-- real - real
-- red - rojo; tinto (wine)
-- responsible - responsable
-- right (side) - derecha
-- sad - triste
-- same - mismo
-- Saturday - sábado
-- secure; sure - securo
-- see you later - hasta luego
-- see you tomorrow - hasta mañana
-- September - septiembre
-- seven - siete
-- seventeen - diecisiete
-- seventy - setenta
-- shopping - de compras
-- short - corto
-- sick - enfermo
-- six - seis
-- sixteen - dieciséis
-- sixty - sesenta
-- slow - lento
-- slowly - despacio; lentamente
-- so - así; tan
-- something; somewhat - algo
-- sometimes - a veces
-- some - unos
-- soon - pronto
-- Spain - España
-- Spanish - español/española
-- spicy - picante
-- studious - estudioso
-- Sunday - domingo
-- surprised - sorprendido
-- sweet - dulce
-- tall - alto
-- ten - diez
-- thank you; thanks - gracias
-- thank you very much - muchas gracias
-- than; that (indirect speech) - que
-- that (pronoun) - aquel/aquella; ese/esa/eso
-- the account; the check (bill) - la cuenta
-- the address; the direction - la dirección
-- the adult - el adulto
-- the afternoon - la tarde
-- the age - la edad
-- the airplane; the plane - el avión
-- the airport - el aeropuerto
-- the animal - el animal
-- the answer; the response - la respuesta
-- the apartment - el apartamento
-- the apple - la manzana
-- the autumn (fall) - el otoño
-- the baby - el bebé
-- the bag - la bolsa
-- the ball - la pelota
-- the banana - el plátano; la banana
-- the bank - el banco
-- the baseball - el béisbol
-- the basketball (object); the basketball (type of game) - el baloncesto; el básquetbol; el juego de baloncesto
-- the bathroom - el baño
-- the beach - la playa
-- the bean - el frijol; la haba
-- the bed - la cama
-- the bedroom - el dormitorio
-- the beer - la cerveza
-- the belt - el cinturón
-- the bicycle - la bicicleta
-- the bike - la bici
-- the bird - el pájaro
-- the birthday - el cumpleaños
-- the blackboard - la pizarra
-- the blouse - la blusa
-- the bookcase - la estantería
-- the book - el libro
-- the bookstore - la librería
-- the boot - la bota
-- the boss - el jefe
-- the bottle - la botella
-- the box - la caja
-- the boy - el chico; el niño
-- the boyfriend - el novio
-- the bread - el pan
-- the breakfast - el desayuno
-- the brother - el hermano
-- the brush - el cepillo
-- the bus - el autobús
-- the business - el negocio
-- the bus stop - la parada de autobús
-- the butter - la mantequilla
-- the cafe; the coffee - el café
-- the cake; the pie - el pastel
-- the camera - la cámara
-- the cap - la gorra
-- the car - el carro; el coche
-- the cat - el gato
-- the cellphone - el celular; el teléfono móvil
-- the cent - el centavo
-- the chair - la silla
-- the cheese - el queso
-- the chicken (bird); the chicken (meat) - el pollo
-- the child - el niño/la niña
-- the chocolate - el chocolate
-- the cinema; the movie theater - el cine
-- the city - la ciudad
-- the class - la clase
-- the classroom - el aula
-- the clock - el reloj
-- the clothes - la ropa
-- the coat - el abrigo
-- the color - el color
-- the computer - el ordenador; la computadora
-- the concert - el concierto
-- the conversation - la conversación
-- the country - el país
-- the course - el curso
-- the credit card - la tarjeta de crédito
-- the cup; the mug - la taza
-- the dad - el papá
-- the dance - el baile
-- the date - la cita; la fecha
-- the daughter - la hija
-- the day - el día
-- the desk - el escritorio
-- the dessert - el postre
-- the dictionary - el diccionario
-- the dinner - la cena
-- the doctor - el doctor/la doctora; el médico/la médica
-- the dog - el perro
-- the dollar - el dólar
-- the doll - la muñeca
-- the door - la puerta
-- the dream - el sueño
-- the dress - el vestido
-- the drink - la bebida
-- the ear - la oreja
-- the egg - el huevo
-- the - el/la/los/las
-- the email - el correo electrónico
-- the emergency - la emergencia
-- the exam - el examen
-- the eye - el ojo
-- the face - la cara
-- the factory - la fábrica
-- the family - la familia
-- the farm - la granja
-- the father - el padre
-- the fear - el miedo
-- the film; the movie - la película
-- the fish (animal) - el pez
-- the fish (meat) - el pescado
-- the fitting room - el probador
-- the floor - el piso
-- the flower - la flor
-- the food; the meal - la comida
-- the foot - el pie
-- the fork - el tenedor
-- the friend - el amigo/la amiga
-- the fruit - la fruta
-- the game - el juego
-- the garden - el jardín
-- the gift - el regalo
-- the girlfriend - la novia
-- the girl - la chica; la niña
-- the glass (drinking) - el vaso
-- the glasses (spectacles) - las gafas; los anteojos; los/las lentes
-- the grandfather - el abuelo
-- the grandmother - la abuela
-- the grass - el césped; la hierba
-- the group - el grupo
-- the guitar - la guitarra
-- the hair - el cabello
-- the hamburger - la hamburguesa
-- the hand - la mano
-- the hat - el sombrero
-- the heat - el calor
-- the help - la ayuda
-- the home - el hogar
-- the horse - el caballo
-- the hospital - el hospital
-- the hotel - el hotel
-- the hour - la hora
-- the house - la casa
-- the hunger - el hambre
-- the husband - el esposo; el marido
-- the image; the picture - la imagen
-- theirs - suyo
-- the jacket - la chaqueta
-- the jeans - los jeans; los vaqueros
-- the juice - el jugo
-- the key - la llave
-- the kilogram - el kilo; el kilogramo
-- the kitchen - la cocina
-- the knife - el cuchillo
-- the language; the tongue - el idioma; la lengua
-- the lesson - la lección
-- the letter (written communication) - la carta
-- the library - la biblioteca
-- the living room - la sala
-- the lunch - el almuerzo
-- the man - el hombre
-- the match (sport) - el partido
-- the meat - la carne
-- the medicine - la medicina
-- them - ellos
-- the menu - el menú
-- the message - el mensaje
-- the meter; the subway - el metro
-- the milk - la leche
-- the minute - el minuto
-- the mom - la mamá
-- the money - el dinero
-- the month - el mes
-- the mother - la madre
-- themselves - ellos mismos
-- the museum - el museo
-- the music - la música
-- the name - el nombre
-- the newspaper - el periódico
-- the note - la nota
-- the number - el número
-- the office - la oficina
-- the old man - el anciano; el viejo
-- the old woman - la anciana; la vieja
-- the orange - la naranja
-- the pack; the package - el paquete
-- the page - la página
-- the paint; the painting - la pintura
-- the pair - el par
-- the pants - los pantalones
-- the paper; the role - el papel
-- the parent - el padre/la madre
-- the park - el parque
-- the part - la parte
-- the party - la fiesta
-- the passport - el pasaporte
-- the pen - el bolígrafo
-- the people - la gente
-- the person - la persona
-- the pet - la mascota
-- the phone; the telephone - el teléfono
-- the photograph; the photography - la fotografía
-- the photo - la foto
-- the piano - el piano
-- the pizza - la pizza
-- the place; the site - el lugar; el sitio
-- the plan - el plan
-- the plane ticket - el boleto de avión
-- the plant - la planta
-- the plate - el plato
-- the player - el jugador
-- the pool; the swimming pool - la piscina
-- the potato - la papa; la patata
-- the price - el precio
-- the problem - el problema
-- the professor - el profesor
-- the question - la pregunta
-- the radio - la radio
-- there are; there is - hay
-- the refrigerator - el refrigerador; la nevera
-- the reservation - la reserva
-- the restaurant - el restaurante
-- the rice - el arroz
-- the river - el río
-- the room - la habitación
-- the salad - la ensalada
-- the salt - la sal
-- the sandwich - el sándwich
-- the sauce - la salsa
-- the sausage - el chorizo
-- the school - la escuela
-- the secretary - el secretario/la secretaria
-- these - estos/estas
-- the shirt - la camisa
-- the shoe - el zapato
-- the shop - la tienda
-- the sister - la hermana
-- the size - el tamaño; la talla
-- the skirt - la falda
-- the soccer - el fútbol
-- the son - el hijo
-- the song - la canción
-- the soup - la sopa
-- the spoon - la cuchara
-- the sport - el deporte
-- the spring (season) - la primavera
-- the station - la estación
-- the stop - la parada
-- the street - la calle
-- the student - el estudiante/la estudiante
-- the subject - el sujeto; la asignatura
-- the sugar - el azúcar
-- the suitcase - la maleta
-- the suit - el traje
-- the summer - el verano
-- the sun - el sol
-- the supermarket - el supermercado
-- the table - la mesa
-- the taxi - el taxi
-- the teacher - el maestro/la maestra
-- the tea - el té
-- the television - la tele; la televisión
-- the tennis - el tenis
-- the thing - la cosa
-- the thirst - la sed
-- the ticket - el boleto; la entrada
-- the time - el tiempo
-- the tomato - el tomate
-- the toothbrush - el cepillo de dientes
-- the tooth - el diente
-- the towel - la toalla
-- the town; the village - el pueblo; la aldea
-- the train - el tren
-- the T-shirt - la camiseta
-- the type - el tipo
-- the vacation - las vacaciones
-- the vegetable - el vegetal; la verdura
-- the waiter/waitress - el camarero/la camarera
-- the wallet - la cartera
-- the wall - la pared
-- the water - el agua
-- the weather - el tiempo (meteorológico)
-- the weekend - el fin de semana
-- the week - la semana
-- the wife - la esposa
-- the wind - el viento
-- the window - la ventana
-- the wine - el vino
-- the winter - el invierno
-- the woman - la mujer
-- the word - la palabra
-- the world - el mundo
-- the year - el año
-- they - ellos/ellas
-- the young man - el joven
-- the young woman - la joven
-- the zoo - el zoológico
-- thin - delgado
-- thirteen - trece
-- thirty - treinta
-- this - este/esta; esto
-- those - esos/esas
-- three - tres
-- Thursday - jueves
-- tired - cansado
-- to - a; hacia
-- to arrive - llegar
-- to be able - poder
-- to be - estar; ser
-- to be hungry - tener hambre
-- to be thirsty - tener sed
-- to bring - traer
-- to brush - cepillar
-- to buy - comprar
-- to call - llamar
-- to carry - llevar
-- to catch - coger
-- to clean - limpiar
-- to close; to shut - cerrar
-- to come out; to leave - dejar; salir
-- to come - venir
-- to cook - cocinar
-- to cost - costar
-- to dance - bailar
-- today - hoy
-- to draw - dibujar
-- to drink - beber
-- to drive - conducir; manejar
-- to earn; to win - ganar
-- to eat breakfast - desayunar
-- to eat - comer
-- to eat dinner - cenar
-- to eat lunch - almorzar
-- to enjoy - disfrutar
-- to excuse - disculpar
-- to expect; to hope; to wait - esperar
-- to feel - sentir
-- to find - encontrar
-- to fly - volar
-- together - junto
-- to get up - levantarse
-- to give - dar
-- to go - ir
-- to go out to dinner - salir a cenar
-- to have - tener
-- to have to - tener que
-- to help - ayudar
-- to interest - interesar
-- to invite - invitar
-- to know (a fact) - saber
-- to know (someone) - conocer (a alguien)
-- to learn - aprender
-- to like - gustar
-- to listen - escuchar
-- to live - vivir
-- to look at - mirar a
-- to look for - buscar
-- to look; to watch - mirar
-- to lose - perder
-- to love - amar; encantar
-- to make - hacer
-- tomorrow - mañana
-- to move (emotionally) - conmover; emocionar
-- to need - necesitar
-- too (excessively); too much - demasiado
-- too many - demasiados
-- to open - abrir
-- to paint - pintar
-- to pass - pasar
-- to pay with cash - pagar en efectivo
-- to play - jugar (juegos); tocar (el piano)
-- to practice - practicar
-- to prefer - preferir
-- to put on - ponerse
-- to put - poner
-- to rain - llover
-- to read - leer
-- to remember - recordar
-- to return - volver
-- to ride - montar
-- to run - correr
-- to see - ver
-- to shower - ducharse
-- to sing - cantar
-- to sleep - dormir
-- to snow - nevar
-- to speak; to talk - hablar
-- to start - empezar
-- to stay - quedarse
-- to study - estudiar
-- to surprise - sorprender
-- to swim - nadar
-- to take - tomar
-- to taste - saborear
-- to teach - enseñar
-- to the - al (m.)
-- to think about - pensar en
-- to think - pensar
-- to touch - tocar
-- to try - intentar; probar
-- to try on - probarse
-- to understand - comprender; entender
-- to use - usar
-- to visit - visitar
-- to wait for - esperar a
-- to walk - caminar
-- to want - querer
-- to wash - lavar
-- to where - a dónde
-- to work - trabajar
-- to write - escribir
-- Tuesday - martes
-- twelve - doce
-- twenty - veinte
-- two - dos
-- under - debajo
-- usually - usualmente
-- us; we - nosotros
-- very - muy
-- Wednesday - miércoles
-- what is the weather like? - ¿qué tiempo hace?
-- what is your name? - ¿cómo te llamas?
-- what - qué
-- when - a qué hora; cuándo
-- where - dónde
-- which - cuál
-- white - blanco
-- whom - a quién
-- who - quién
-- why - por qué
-- with - con
-- with me - conmigo
-- without - sin
-- with you - contigo
-- worse - peor
-- worst - el peor
-- wrong - incorrecto
-- years old - años
-- yellow - amarillo
-- yes - sí
-- you are welcome - de nada
-- younger - menor; más joven
-- young - joven
-- yourself - tú mismo/usted mismo
-- yourselves - vosotros mismos/ustedes mismos
-- yours - tuyo/suyo
-- your - tu/su
-- you - tú (informal sg.); usted (formal sg.); ustedes (formal pl. or informal pl. in Latin America); vosotros/vosotras (informal pl. Spain)
-- zero - cero
+-   about; onto; over - sobre
+-   after - después
+-   again - otra vez
+-   a little - un poco
+-   alive - vivo
+-   all; everything - todo
+-   all the time - todo el tiempo
+-   alone; only - solo
+-   a lot - mucho
+-   already - ya
+-   also; too (as well) - también
+-   always - siempre
+-   America - América
+-   American - americano
+-   angry - enojado
+-   another; other - otro
+-   any - alguno; cualquier
+-   April (month) - abril
+-   at; in; on - en
+-   August (month) - agosto
+-   bad - malo
+-   beautiful - bello; hermoso
+-   because - porque
+-   before - antes
+-   best - el mejor
+-   better - mejor
+-   big; large - grande
+-   black - negro
+-   blond (hair) - rubio
+-   blue - azul
+-   bored; boring - aburrido
+-   both - ambos
+-   brown - marrón
+-   but - pero
+-   bye; goodbye - adiós
+-   by; per (for each) - por
+-   cheap - barato
+-   Chilean - chileno
+-   Chile - Chile
+-   China - China
+-   Chinese - chino
+-   clean (adj.) - limpio
+-   clear; light (not dark) - claro
+-   close (adj.); near - cerca
+-   closed - cerrado
+-   close to - cerca de
+-   cloudy - nublado
+-   cold - frío
+-   comfortable - cómodo
+-   concerned; worried - preocupado
+-   Cuba - Cuba
+-   Cuban - cubano
+-   daily - diario
+-   dark (hair or skin) - moreno
+-   dark - oscuro
+-   December - diciembre
+-   different - diferente
+-   difficult - difícil
+-   dirty - sucio
+-   do you know - ¿sabes?
+-   each; every - cada
+-   early - temprano
+-   easy - fácil
+-   eighteen - dieciocho
+-   eight - ocho
+-   eighty - ochenta
+-   elegant - elegante
+-   eleven - once
+-   England - Inglaterra
+-   English - inglés/inglesa
+-   European - europeo
+-   Europe - Europa
+-   everybody; everyone - todo el mundo; todos
+-   excited - emocionado
+-   excuse me - disculpe; discúlpame
+-   expensive - caro
+-   famous - famoso
+-   far; far away - lejos
+-   far from - lejos de
+-   fast; quick - rápido
+-   fat - gordo
+-   favorite - favorito
+-   February - febrero
+-   fewer - menos
+-   few - pocos
+-   fifteen - quince
+-   fifty - cincuenta
+-   fine; well - bien
+-   first - primero
+-   five - cinco
+-   for - para
+-   forty - cuarenta
+-   four - cuatro
+-   fourteen - catorce
+-   fourth - cuarto
+-   France - Francia
+-   French - francés/francesa
+-   Friday - viernes
+-   fried - frito
+-   from; of - de
+-   from where - ¿de dónde?
+-   fun (adj.) - divertido
+-   German - alemán
+-   Germany - Alemania
+-   glad; happy - contento; feliz
+-   good afternoon; good evening - buenas tardes
+-   good - bueno
+-   good morning - buenos días
+-   good night - buenas noches
+-   gray - gris
+-   green - verde
+-   half - la mitad
+-   half past - y media
+-   handsome - guapo
+-   he; him - él
+-   hello; hi - hola
+-   here - aquí
+-   her (obj.) - ella
+-   her (poss.) - su (de ella)
+-   herself - ella misma
+-   hers - suyo (de ella)
+-   himself - él mismo
+-   his; their - su
+-   hot - caliente
+-   how are you - cómo estás; qué tal
+-   how - cómo
+-   how do you say - ¿cómo se dice?
+-   how is the weather? - ¿cómo está el tiempo?
+-   how many - cuántos
+-   how much - cuánto
+-   how old are you? - ¿cuántos años tienes?
+-   I am sorry; sorry - lo siento; perdón
+-   I don't know - no sé
+-   important - importante
+-   in his/her opinion - para él/ella
+-   intelligent; smart - inteligente
+-   interesting - interesante
+-   Italian - italiano
+-   Italy - Italia
+-   it - ello; eso
+-   itself - sí mismo (ello)
+-   its - su (de ello)
+-   I would like - me gustaría; quisiera
+-   January - enero
+-   Japanese - japonés/japonesa
+-   Japan - Japón
+-   July - julio
+-   June (month) - junio
+-   later - luego; más tarde
+-   late - tarde
+-   lazy - perezoso
+-   less than - menos de
+-   light (not heavy) - ligero
+-   little; small - pequeño; poco
+-   long - largo
+-   loud - alto (sonido)
+-   low - bajo
+-   madam - señora
+-   many - muchos
+-   March (month) - Marzo
+-   May (month) - Mayo
+-   me - me/mí
+-   Mexican - mexicano
+-   Mexico - México
+-   mine - mío
+-   modern - moderno
+-   Monday - lunes
+-   more - más
+-   Mr. - señor (sr.)
+-   Mrs. - señora (sra.)
+-   Ms. - señorita (sra.)
+-   my - mi
+-   my name is - me llamo
+-   my own - el mío propio/la mía propia
+-   myself - yo mismo
+-   nervous - nervioso
+-   never - nunca
+-   new - nuevo
+-   next - próximo; siguiente
+-   next to - al lado de
+-   nice; pleasant - agradable; simpático
+-   nice to meet you - encantado de conocerte; mucho gusto
+-   nine - nueve
+-   nineteen - diecinueve
+-   ninety - noventa
+-   no; not - no
+-   normally - normalmente
+-   normal - normal
+-   nor - ni
+-   nothing - nada
+-   November - noviembre
+-   now - ahora
+-   October - octubre
+-   of course - por supuesto
+-   often - a menudo
+-   of the - del (m.)
+-   OK; agreed - de acuerdo
+-   older - mayor
+-   old - viejo
+-   once - una vez
+-   one (num.) - uno
+-   one quarter - un cuarto
+-   on the left - a la izquierda
+-   on the right - a la derecha
+-   open (adj.) - abierto
+-   or - o
+-   our; ours - nuestro
+-   ourselves - nosotros mismos
+-   over there; there - ahí; allí
+-   perfect - perfecto
+-   please - por favor
+-   popular - popular
+-   Portugal - Portugal
+-   Portuguese - portugués/portuguesa
+-   pretty - bonito
+-   quarter past - y cuarto
+-   quarter to - menos cuarto
+-   ready - listo
+-   really - de verdad; realmente
+-   real - real
+-   red - rojo; tinto (wine)
+-   responsible - responsable
+-   right (side) - derecha
+-   sad - triste
+-   same - mismo
+-   Saturday - sábado
+-   secure; sure - securo
+-   see you later - hasta luego
+-   see you tomorrow - hasta mañana
+-   September - septiembre
+-   seven - siete
+-   seventeen - diecisiete
+-   seventy - setenta
+-   shopping - de compras
+-   short - corto
+-   sick - enfermo
+-   six - seis
+-   sixteen - dieciséis
+-   sixty - sesenta
+-   slow - lento
+-   slowly - despacio; lentamente
+-   so - así; tan
+-   something; somewhat - algo
+-   sometimes - a veces
+-   some - unos
+-   soon - pronto
+-   Spain - España
+-   Spanish - español/española
+-   spicy - picante
+-   studious - estudioso
+-   Sunday - domingo
+-   surprised - sorprendido
+-   sweet - dulce
+-   tall - alto
+-   ten - diez
+-   thank you; thanks - gracias
+-   thank you very much - muchas gracias
+-   than; that (indirect speech) - que
+-   that (pronoun) - aquel/aquella; ese/esa/eso
+-   the account; the check (bill) - la cuenta
+-   the address; the direction - la dirección
+-   the adult - el adulto
+-   the afternoon - la tarde
+-   the age - la edad
+-   the airplane; the plane - el avión
+-   the airport - el aeropuerto
+-   the animal - el animal
+-   the answer; the response - la respuesta
+-   the apartment - el apartamento
+-   the apple - la manzana
+-   the autumn (fall) - el otoño
+-   the baby - el bebé
+-   the bag - la bolsa
+-   the ball - la pelota
+-   the banana - el plátano; la banana
+-   the bank - el banco
+-   the baseball - el béisbol
+-   the basketball (object); the basketball (type of game) - el baloncesto; el básquetbol; el juego
+    de baloncesto
+-   the bathroom - el baño
+-   the beach - la playa
+-   the bean - el frijol; la haba
+-   the bed - la cama
+-   the bedroom - el dormitorio
+-   the beer - la cerveza
+-   the belt - el cinturón
+-   the bicycle - la bicicleta
+-   the bike - la bici
+-   the bird - el pájaro
+-   the birthday - el cumpleaños
+-   the blackboard - la pizarra
+-   the blouse - la blusa
+-   the bookcase - la estantería
+-   the book - el libro
+-   the bookstore - la librería
+-   the boot - la bota
+-   the boss - el jefe
+-   the bottle - la botella
+-   the box - la caja
+-   the boy - el chico; el niño
+-   the boyfriend - el novio
+-   the bread - el pan
+-   the breakfast - el desayuno
+-   the brother - el hermano
+-   the brush - el cepillo
+-   the bus - el autobús
+-   the business - el negocio
+-   the bus stop - la parada de autobús
+-   the butter - la mantequilla
+-   the cafe; the coffee - el café
+-   the cake; the pie - el pastel
+-   the camera - la cámara
+-   the cap - la gorra
+-   the car - el carro; el coche
+-   the cat - el gato
+-   the cellphone - el celular; el teléfono móvil
+-   the cent - el centavo
+-   the chair - la silla
+-   the cheese - el queso
+-   the chicken (bird); the chicken (meat) - el pollo
+-   the child - el niño/la niña
+-   the chocolate - el chocolate
+-   the cinema; the movie theater - el cine
+-   the city - la ciudad
+-   the class - la clase
+-   the classroom - el aula
+-   the clock - el reloj
+-   the clothes - la ropa
+-   the coat - el abrigo
+-   the color - el color
+-   the computer - el ordenador; la computadora
+-   the concert - el concierto
+-   the conversation - la conversación
+-   the country - el país
+-   the course - el curso
+-   the credit card - la tarjeta de crédito
+-   the cup; the mug - la taza
+-   the dad - el papá
+-   the dance - el baile
+-   the date - la cita; la fecha
+-   the daughter - la hija
+-   the day - el día
+-   the desk - el escritorio
+-   the dessert - el postre
+-   the dictionary - el diccionario
+-   the dinner - la cena
+-   the doctor - el doctor/la doctora; el médico/la médica
+-   the dog - el perro
+-   the dollar - el dólar
+-   the doll - la muñeca
+-   the door - la puerta
+-   the dream - el sueño
+-   the dress - el vestido
+-   the drink - la bebida
+-   the ear - la oreja
+-   the egg - el huevo
+-   the - el/la/los/las
+-   the email - el correo electrónico
+-   the emergency - la emergencia
+-   the exam - el examen
+-   the eye - el ojo
+-   the face - la cara
+-   the factory - la fábrica
+-   the family - la familia
+-   the farm - la granja
+-   the father - el padre
+-   the fear - el miedo
+-   the film; the movie - la película
+-   the fish (animal) - el pez
+-   the fish (meat) - el pescado
+-   the fitting room - el probador
+-   the floor - el piso
+-   the flower - la flor
+-   the food; the meal - la comida
+-   the foot - el pie
+-   the fork - el tenedor
+-   the friend - el amigo/la amiga
+-   the fruit - la fruta
+-   the game - el juego
+-   the garden - el jardín
+-   the gift - el regalo
+-   the girlfriend - la novia
+-   the girl - la chica; la niña
+-   the glass (drinking) - el vaso
+-   the glasses (spectacles) - las gafas; los anteojos; los/las lentes
+-   the grandfather - el abuelo
+-   the grandmother - la abuela
+-   the grass - el césped; la hierba
+-   the group - el grupo
+-   the guitar - la guitarra
+-   the hair - el cabello
+-   the hamburger - la hamburguesa
+-   the hand - la mano
+-   the hat - el sombrero
+-   the heat - el calor
+-   the help - la ayuda
+-   the home - el hogar
+-   the horse - el caballo
+-   the hospital - el hospital
+-   the hotel - el hotel
+-   the hour - la hora
+-   the house - la casa
+-   the hunger - el hambre
+-   the husband - el esposo; el marido
+-   the image; the picture - la imagen
+-   theirs - suyo
+-   the jacket - la chaqueta
+-   the jeans - los jeans; los vaqueros
+-   the juice - el jugo
+-   the key - la llave
+-   the kilogram - el kilo; el kilogramo
+-   the kitchen - la cocina
+-   the knife - el cuchillo
+-   the language; the tongue - el idioma; la lengua
+-   the lesson - la lección
+-   the letter (written communication) - la carta
+-   the library - la biblioteca
+-   the living room - la sala
+-   the lunch - el almuerzo
+-   the man - el hombre
+-   the match (sport) - el partido
+-   the meat - la carne
+-   the medicine - la medicina
+-   them - ellos
+-   the menu - el menú
+-   the message - el mensaje
+-   the meter; the subway - el metro
+-   the milk - la leche
+-   the minute - el minuto
+-   the mom - la mamá
+-   the money - el dinero
+-   the month - el mes
+-   the mother - la madre
+-   themselves - ellos mismos
+-   the museum - el museo
+-   the music - la música
+-   the name - el nombre
+-   the newspaper - el periódico
+-   the note - la nota
+-   the number - el número
+-   the office - la oficina
+-   the old man - el anciano; el viejo
+-   the old woman - la anciana; la vieja
+-   the orange - la naranja
+-   the pack; the package - el paquete
+-   the page - la página
+-   the paint; the painting - la pintura
+-   the pair - el par
+-   the pants - los pantalones
+-   the paper; the role - el papel
+-   the parent - el padre/la madre
+-   the park - el parque
+-   the part - la parte
+-   the party - la fiesta
+-   the passport - el pasaporte
+-   the pen - el bolígrafo
+-   the people - la gente
+-   the person - la persona
+-   the pet - la mascota
+-   the phone; the telephone - el teléfono
+-   the photograph; the photography - la fotografía
+-   the photo - la foto
+-   the piano - el piano
+-   the pizza - la pizza
+-   the place; the site - el lugar; el sitio
+-   the plan - el plan
+-   the plane ticket - el boleto de avión
+-   the plant - la planta
+-   the plate - el plato
+-   the player - el jugador
+-   the pool; the swimming pool - la piscina
+-   the potato - la papa; la patata
+-   the price - el precio
+-   the problem - el problema
+-   the professor - el profesor
+-   the question - la pregunta
+-   the radio - la radio
+-   there are; there is - hay
+-   the refrigerator - el refrigerador; la nevera
+-   the reservation - la reserva
+-   the restaurant - el restaurante
+-   the rice - el arroz
+-   the river - el río
+-   the room - la habitación
+-   the salad - la ensalada
+-   the salt - la sal
+-   the sandwich - el sándwich
+-   the sauce - la salsa
+-   the sausage - el chorizo
+-   the school - la escuela
+-   the secretary - el secretario/la secretaria
+-   these - estos/estas
+-   the shirt - la camisa
+-   the shoe - el zapato
+-   the shop - la tienda
+-   the sister - la hermana
+-   the size - el tamaño; la talla
+-   the skirt - la falda
+-   the soccer - el fútbol
+-   the son - el hijo
+-   the song - la canción
+-   the soup - la sopa
+-   the spoon - la cuchara
+-   the sport - el deporte
+-   the spring (season) - la primavera
+-   the station - la estación
+-   the stop - la parada
+-   the street - la calle
+-   the student - el estudiante/la estudiante
+-   the subject - el sujeto; la asignatura
+-   the sugar - el azúcar
+-   the suitcase - la maleta
+-   the suit - el traje
+-   the summer - el verano
+-   the sun - el sol
+-   the supermarket - el supermercado
+-   the table - la mesa
+-   the taxi - el taxi
+-   the teacher - el maestro/la maestra
+-   the tea - el té
+-   the television - la tele; la televisión
+-   the tennis - el tenis
+-   the thing - la cosa
+-   the thirst - la sed
+-   the ticket - el boleto; la entrada
+-   the time - el tiempo
+-   the tomato - el tomate
+-   the toothbrush - el cepillo de dientes
+-   the tooth - el diente
+-   the towel - la toalla
+-   the town; the village - el pueblo; la aldea
+-   the train - el tren
+-   the T-shirt - la camiseta
+-   the type - el tipo
+-   the vacation - las vacaciones
+-   the vegetable - el vegetal; la verdura
+-   the waiter/waitress - el camarero/la camarera
+-   the wallet - la cartera
+-   the wall - la pared
+-   the water - el agua
+-   the weather - el tiempo (meteorológico)
+-   the weekend - el fin de semana
+-   the week - la semana
+-   the wife - la esposa
+-   the wind - el viento
+-   the window - la ventana
+-   the wine - el vino
+-   the winter - el invierno
+-   the woman - la mujer
+-   the word - la palabra
+-   the world - el mundo
+-   the year - el año
+-   they - ellos/ellas
+-   the young man - el joven
+-   the young woman - la joven
+-   the zoo - el zoológico
+-   thin - delgado
+-   thirteen - trece
+-   thirty - treinta
+-   this - este/esta; esto
+-   those - esos/esas
+-   three - tres
+-   Thursday - jueves
+-   tired - cansado
+-   to - a; hacia
+-   to arrive - llegar
+-   to be able - poder
+-   to be - estar; ser
+-   to be hungry - tener hambre
+-   to be thirsty - tener sed
+-   to bring - traer
+-   to brush - cepillar
+-   to buy - comprar
+-   to call - llamar
+-   to carry - llevar
+-   to catch - coger
+-   to clean - limpiar
+-   to close; to shut - cerrar
+-   to come out; to leave - dejar; salir
+-   to come - venir
+-   to cook - cocinar
+-   to cost - costar
+-   to dance - bailar
+-   today - hoy
+-   to draw - dibujar
+-   to drink - beber
+-   to drive - conducir; manejar
+-   to earn; to win - ganar
+-   to eat breakfast - desayunar
+-   to eat - comer
+-   to eat dinner - cenar
+-   to eat lunch - almorzar
+-   to enjoy - disfrutar
+-   to excuse - disculpar
+-   to expect; to hope; to wait - esperar
+-   to feel - sentir
+-   to find - encontrar
+-   to fly - volar
+-   together - junto
+-   to get up - levantarse
+-   to give - dar
+-   to go - ir
+-   to go out to dinner - salir a cenar
+-   to have - tener
+-   to have to - tener que
+-   to help - ayudar
+-   to interest - interesar
+-   to invite - invitar
+-   to know (a fact) - saber
+-   to know (someone) - conocer (a alguien)
+-   to learn - aprender
+-   to like - gustar
+-   to listen - escuchar
+-   to live - vivir
+-   to look at - mirar a
+-   to look for - buscar
+-   to look; to watch - mirar
+-   to lose - perder
+-   to love - amar; encantar
+-   to make - hacer
+-   tomorrow - mañana
+-   to move (emotionally) - conmover; emocionar
+-   to need - necesitar
+-   too (excessively); too much - demasiado
+-   too many - demasiados
+-   to open - abrir
+-   to paint - pintar
+-   to pass - pasar
+-   to pay with cash - pagar en efectivo
+-   to play - jugar (juegos); tocar (el piano)
+-   to practice - practicar
+-   to prefer - preferir
+-   to put on - ponerse
+-   to put - poner
+-   to rain - llover
+-   to read - leer
+-   to remember - recordar
+-   to return - volver
+-   to ride - montar
+-   to run - correr
+-   to see - ver
+-   to shower - ducharse
+-   to sing - cantar
+-   to sleep - dormir
+-   to snow - nevar
+-   to speak; to talk - hablar
+-   to start - empezar
+-   to stay - quedarse
+-   to study - estudiar
+-   to surprise - sorprender
+-   to swim - nadar
+-   to take - tomar
+-   to taste - saborear
+-   to teach - enseñar
+-   to the - al (m.)
+-   to think about - pensar en
+-   to think - pensar
+-   to touch - tocar
+-   to try - intentar; probar
+-   to try on - probarse
+-   to understand - comprender; entender
+-   to use - usar
+-   to visit - visitar
+-   to wait for - esperar a
+-   to walk - caminar
+-   to want - querer
+-   to wash - lavar
+-   to where - a dónde
+-   to work - trabajar
+-   to write - escribir
+-   Tuesday - martes
+-   twelve - doce
+-   twenty - veinte
+-   two - dos
+-   under - debajo
+-   usually - usualmente
+-   us; we - nosotros
+-   very - muy
+-   Wednesday - miércoles
+-   what is the weather like? - ¿qué tiempo hace?
+-   what is your name? - ¿cómo te llamas?
+-   what - qué
+-   when - a qué hora; cuándo
+-   where - dónde
+-   which - cuál
+-   white - blanco
+-   whom - a quién
+-   who - quién
+-   why - por qué
+-   with - con
+-   with me - conmigo
+-   without - sin
+-   with you - contigo
+-   worse - peor
+-   worst - el peor
+-   wrong - incorrecto
+-   years old - años
+-   yellow - amarillo
+-   yes - sí
+-   you are welcome - de nada
+-   younger - menor; más joven
+-   young - joven
+-   yourself - tú mismo/usted mismo
+-   yourselves - vosotros mismos/ustedes mismos
+-   yours - tuyo/suyo
+-   your - tu/su
+-   you - tú (informal sg.); usted (formal sg.); ustedes (formal pl. or informal pl. in Latin
+    America); vosotros/vosotras (informal pl. Spain)
+-   zero - cero

@@ -1,211 +1,211 @@
-- a/an - ein/eine
-- also; to (as well) - auch
-- always - immer
-- America - Amerika
-- and - und
-- anyways - ehe
-- Austria - Österreich
-- beautiful - schön
-- Berlin - Berlin
-- big; large; tall - groß
-- but - aber
-- bye - tschüss
-- Canada - Kanada
-- cheap - billig
-- cheers (as a toast) - Prost
-- cold - kalt
-- cool (great) - cool
-- delicious - lecker
-- eight - acht
-- elegant - elegant
-- English - Englisch
-- ever - je
-- exciting (adj.) - aufregend
-- expensive - teuer
-- far away - weit weg
-- few - wenig
-- fine; good; well - gut
-- five - fünf
-- four - vier
-- France - Frankreich
-- from; of; out of - aus; von
-- from where - woher
-- German - Deutsch
-- Germany - Deutschland
-- goodbye - Auf Wiedersehen
-- good day - guten Tag
-- good evening - guten Abend
-- good morning - guten Morgen
-- good night - gute Nacht
-- he - er
-- hello - hallo
-- here - hier
-- her (obj.); she; they - sie
-- her (poss.); their - ihr
-- his; to be - sein
-- hot - heiß
-- how are you - wie geht es dir; wie geht's
-- how much - wie viel
-- how - wie
-- I am all right - es geht
-- I am sorry - es tut mir leid
-- I - ich
-- in - in
-- interesting - interessant
-- its - sein/ihr
-- later - später
-- left (side); on the left - links
-- little; small - klein
-- loud; loudly; noisy - laut
-- mine; my - mein/meine
-- Mr. - Herr
-- Mrs.; Ms. - Frau
-- Munich - München
-- my name is - ich heiße
-- nearby - in der Nähe
-- never - nie
-- new - neu
-- New York - New York
-- nice - nett
-- nine - neun
-- no - nein
-- none - kein/keine
-- of course - natürlich
-- often - oft
-- oh - ach; oh
-- OK - OK
-- old - alt
-- one (num.) - eins
-- on the right; right (side) - rechts
-- or - oder
-- ouch - au
-- over there - da drüben
-- please - bitte
-- really - wirklich
-- Russia - Russland
-- see you later - bis später
-- see you; see you soon - bis bald
-- seven - sieben
-- six - sechs
-- smart - klug
-- sometimes - manchmal
-- soon - bald
-- sorry - Entschuldigung
-- stressful - stressig
-- super (great) - super
-- Sweden - Schweden
-- ten - zehn
-- thank you; thanks - danke
-- thank you very much - vielen Dank
-- that (pronoun) - das
-- the actor/actress - der Schauspieler/die Schauspielerin
-- the artist - der Künstler/die Künstlerin
-- the ATM (cash dispenser) - der Geldautomat
-- the bakery - die Bäckerei
-- the bear - der Bär
-- the beer - das Bier
-- the boy - der Junge
-- the boyfriend - der Freund
-- the bread - das Brot
-- the brother - der Bruder
-- the cafe - das Café
-- the cat - die Katze
-- the chancellor - der Kanzler/die Kanzlerin
-- the check (bill) - die Rechnung
-- the cheese - der Käse
-- the chess - das Schach
-- the church - die Kirche
-- the cinema; the movie theater - das Kino
-- the city; the town - die Stadt
-- the coffee - der Kaffee
-- the daughter - die Tochter
-- the day - der Tag
-- the - der/die/das
-- the doctor - der Arzt/die Ärztin
-- the dog - der Hund
-- the dollar - der Dollar
-- the doner kabob - der Döner
-- the egg - das Ei
-- the elephant - der Elefant
-- the Euro - das Euro
-- the father - der Vater
-- the food; the meal - das Essen
-- the friend - der Freund/die Freundin
-- the girlfriend - die Freundin
-- the hotel - das Hotel
-- the husband; the man - der Mann
-- the kilogram - das Kilogramm
-- the lawyer - der Anwalt/die Anwältin
-- the library - die Bibliothek
-- the marketplace - der Marktplatz
-- the menu - die Speisekarte
-- the milk - die Milch
-- the mineral water - das Mineralwasser
-- the money - das Geld
-- the mother - die Mutter
-- the mouse - die Maus
-- the museum - das Museum
-- the orange - die Orange
-- the owl - die Eule
-- the park - der Park
-- the pharmacy - die Apotheke
-- the piano - das Klavier
-- the pizza - die Pizza
-- the place; the plaza - der Platz
-- the police officer - der Polizist/die Polizistin
-- the potato - die Kartoffel
-- the professor - der Professor/die Professorin
-- the restaurant - das Restaurant
-- the salad - der Salat
-- the salt - das Salz
-- the sandwich - das Sandwich
-- the sausage - die Wurst
-- the schnitzel - das Schnitzel
-- the sister - die Schwester
-- the son - der Sohn
-- the station; the train station - der Bahnhof; die Station
-- the strawberry - die Erdbeere
-- the student - der Student/die Studentin
-- the subway - die U-Bahn
-- the subway station - die U-Bahnstation
-- the supermarket - der Supermarkt
-- the taxi - das Taxi
-- the taxi stand - der Taxistand
-- the teacher - der Lehrer/die Lehrerin
-- the tea - der Tee
-- the tomato - die Tomate
-- the university - die Universität
-- the waiter/waitress - der Kellner/die Kellnerin
-- the water - das Wasser
-- the wine - der Wein
-- the woman - die Frau
-- the work - die Arbeit
-- three - drei
-- to be named - heißen
-- to boil; to cook - kochen
-- to come - kommen
-- to cost - kosten
-- to lie (down) - liegen
-- to live - leben
-- to look; to see - schauen; sehen
-- to paint - malen
-- to play - spielen
-- to speak - sprechen
-- to swim - schwimmen
-- to; too (excessively) - zu
-- two - zwei
-- very - sehr
-- Vienna - Wien
-- what is your name? - Wie heißt du?
-- what - was
-- where are you from? - woher kommst du?
-- where - wo
-- with - mit
-- wonderful - wunderbar
-- yes - ja
-- you are welcome - bitte schön; gern geschehen
-- you - du/ihr/Sie
-- young - jung
-- your - dein/euer/Ihr
-- yours - deins/eures/Ihres
-- zero - null
+-   a/an - ein/eine
+-   also; to (as well) - auch
+-   always - immer
+-   America - Amerika
+-   and - und
+-   anyways - ehe
+-   Austria - Österreich
+-   beautiful - schön
+-   Berlin - Berlin
+-   big; large; tall - groß
+-   but - aber
+-   bye - tschüss
+-   Canada - Kanada
+-   cheap - billig
+-   cheers (as a toast) - Prost
+-   cold - kalt
+-   cool (great) - cool
+-   delicious - lecker
+-   eight - acht
+-   elegant - elegant
+-   English - Englisch
+-   ever - je
+-   exciting (adj.) - aufregend
+-   expensive - teuer
+-   far away - weit weg
+-   few - wenig
+-   fine; good; well - gut
+-   five - fünf
+-   four - vier
+-   France - Frankreich
+-   from; of; out of - aus; von
+-   from where - woher
+-   German - Deutsch
+-   Germany - Deutschland
+-   goodbye - Auf Wiedersehen
+-   good day - guten Tag
+-   good evening - guten Abend
+-   good morning - guten Morgen
+-   good night - gute Nacht
+-   he - er
+-   hello - hallo
+-   here - hier
+-   her (obj.); she; they - sie
+-   her (poss.); their - ihr
+-   his; to be - sein
+-   hot - heiß
+-   how are you - wie geht es dir; wie geht's
+-   how much - wie viel
+-   how - wie
+-   I am all right - es geht
+-   I am sorry - es tut mir leid
+-   I - ich
+-   in - in
+-   interesting - interessant
+-   its - sein/ihr
+-   later - später
+-   left (side); on the left - links
+-   little; small - klein
+-   loud; loudly; noisy - laut
+-   mine; my - mein/meine
+-   Mr. - Herr
+-   Mrs.; Ms. - Frau
+-   Munich - München
+-   my name is - ich heiße
+-   nearby - in der Nähe
+-   never - nie
+-   new - neu
+-   New York - New York
+-   nice - nett
+-   nine - neun
+-   no - nein
+-   none - kein/keine
+-   of course - natürlich
+-   often - oft
+-   oh - ach; oh
+-   OK - OK
+-   old - alt
+-   one (num.) - eins
+-   on the right; right (side) - rechts
+-   or - oder
+-   ouch - au
+-   over there - da drüben
+-   please - bitte
+-   really - wirklich
+-   Russia - Russland
+-   see you later - bis später
+-   see you; see you soon - bis bald
+-   seven - sieben
+-   six - sechs
+-   smart - klug
+-   sometimes - manchmal
+-   soon - bald
+-   sorry - Entschuldigung
+-   stressful - stressig
+-   super (great) - super
+-   Sweden - Schweden
+-   ten - zehn
+-   thank you; thanks - danke
+-   thank you very much - vielen Dank
+-   that (pronoun) - das
+-   the actor/actress - der Schauspieler/die Schauspielerin
+-   the artist - der Künstler/die Künstlerin
+-   the ATM (cash dispenser) - der Geldautomat
+-   the bakery - die Bäckerei
+-   the bear - der Bär
+-   the beer - das Bier
+-   the boy - der Junge
+-   the boyfriend - der Freund
+-   the bread - das Brot
+-   the brother - der Bruder
+-   the cafe - das Café
+-   the cat - die Katze
+-   the chancellor - der Kanzler/die Kanzlerin
+-   the check (bill) - die Rechnung
+-   the cheese - der Käse
+-   the chess - das Schach
+-   the church - die Kirche
+-   the cinema; the movie theater - das Kino
+-   the city; the town - die Stadt
+-   the coffee - der Kaffee
+-   the daughter - die Tochter
+-   the day - der Tag
+-   the - der/die/das
+-   the doctor - der Arzt/die Ärztin
+-   the dog - der Hund
+-   the dollar - der Dollar
+-   the doner kabob - der Döner
+-   the egg - das Ei
+-   the elephant - der Elefant
+-   the Euro - das Euro
+-   the father - der Vater
+-   the food; the meal - das Essen
+-   the friend - der Freund/die Freundin
+-   the girlfriend - die Freundin
+-   the hotel - das Hotel
+-   the husband; the man - der Mann
+-   the kilogram - das Kilogramm
+-   the lawyer - der Anwalt/die Anwältin
+-   the library - die Bibliothek
+-   the marketplace - der Marktplatz
+-   the menu - die Speisekarte
+-   the milk - die Milch
+-   the mineral water - das Mineralwasser
+-   the money - das Geld
+-   the mother - die Mutter
+-   the mouse - die Maus
+-   the museum - das Museum
+-   the orange - die Orange
+-   the owl - die Eule
+-   the park - der Park
+-   the pharmacy - die Apotheke
+-   the piano - das Klavier
+-   the pizza - die Pizza
+-   the place; the plaza - der Platz
+-   the police officer - der Polizist/die Polizistin
+-   the potato - die Kartoffel
+-   the professor - der Professor/die Professorin
+-   the restaurant - das Restaurant
+-   the salad - der Salat
+-   the salt - das Salz
+-   the sandwich - das Sandwich
+-   the sausage - die Wurst
+-   the schnitzel - das Schnitzel
+-   the sister - die Schwester
+-   the son - der Sohn
+-   the station; the train station - der Bahnhof; die Station
+-   the strawberry - die Erdbeere
+-   the student - der Student/die Studentin
+-   the subway - die U-Bahn
+-   the subway station - die U-Bahnstation
+-   the supermarket - der Supermarkt
+-   the taxi - das Taxi
+-   the taxi stand - der Taxistand
+-   the teacher - der Lehrer/die Lehrerin
+-   the tea - der Tee
+-   the tomato - die Tomate
+-   the university - die Universität
+-   the waiter/waitress - der Kellner/die Kellnerin
+-   the water - das Wasser
+-   the wine - der Wein
+-   the woman - die Frau
+-   the work - die Arbeit
+-   three - drei
+-   to be named - heißen
+-   to boil; to cook - kochen
+-   to come - kommen
+-   to cost - kosten
+-   to lie (down) - liegen
+-   to live - leben
+-   to look; to see - schauen; sehen
+-   to paint - malen
+-   to play - spielen
+-   to speak - sprechen
+-   to swim - schwimmen
+-   to; too (excessively) - zu
+-   two - zwei
+-   very - sehr
+-   Vienna - Wien
+-   what is your name? - Wie heißt du?
+-   what - was
+-   where are you from? - woher kommst du?
+-   where - wo
+-   with - mit
+-   wonderful - wunderbar
+-   yes - ja
+-   you are welcome - bitte schön; gern geschehen
+-   you - du/ihr/Sie
+-   young - jung
+-   your - dein/euer/Ihr
+-   yours - deins/eures/Ihres
+-   zero - null

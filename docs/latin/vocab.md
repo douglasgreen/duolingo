@@ -1,215 +1,216 @@
-- a/an - unus/una (depending on gender)
-- all right; fine; well - bene
-- alone - solus
-- also - etiam; quoque
-- America - America
-- American - Americanus
-- and - et
-- angry - iratus
-- at - ad
-- at home - domi
-- badly - male
-- bad - malus
-- before - ante
-- best - optimus
-- better - melior
-- big; large - magnus
-- busy - occupatus
-- but - sed
-- by; from - a/ab (depending on the following word)
-- calm - placidus; tranquillus
-- concerned; stressful; worried - sollicitus
-- daily - cotidie
-- dining room - triclinium
-- drunk - ebrius
-- dutiful; pious - pius
-- fat - pinguis
-- female; the woman - femina
-- five - quinque
-- four - quattuor
-- from where - unde
-- happy - felix; laetus
-- healthy - sanus
-- he - is (m.)
-- hello; hi; welcome - salve/salvete
-- her (obj.) - eam
-- her (poss.); hers; his - eius
-- herself - se ipsa
-- him - eum
-- himself - se ipsum
-- holy; sacred - sacer; sanctus
-- how are you - quid agis
-- how many - quot
-- how much - quantum
-- how - quomodo
-- I - ego
-- in - in
-- its - eius (of it, possessive)
-- kind (adj.) - benignus
-- Latin - Latinus
-- lazy - ignavus; piger
-- leisurely - otiosus
-- long - longus
-- many - multi
-- me - me
-- New York - Novum Eboracum
-- no - minime
-- not - non
-- OK - bene (informal, not a direct equivalent)
-- old - senilis; vetus
-- one (num.) - unus
-- our; ours - noster
-- perhaps - fortasse
-- Philadelphia - Philadelphia
-- please - quaeso (in asking politely)
-- quiet - quietus; tacitus
-- red - ruber
-- rich - pecuniosus
-- salty - salsus
-- she - ea
-- sick - aeger
-- skilled - peritus
-- so - ita
-- sometimes - interdum
-- strict - severus
-- surely not - num
-- ten - decem
-- that (pronoun) - ille (m.)/illa (f.)
-- the accountant - ratiocinator (m.)
-- the actor/actress - histrio/histrionissa
-- the ally - socius
-- the altar - altare (nt.); ara
-- the architect - architectus
-- the baker - pistor (m.)
-- the bar (tavern); the shop - taberna
-- the bed - lectus
-- the bone - ossum
-- the book - liber (m.)
-- the boy; the child - puer (m.)
-- the bread - panis (m.)
-- the brother - frater (m.)
-- the building - aedificium
-- the city - urbs (f.)
-- the client - cliens (m.)
-- the coin - nummus
-- the cook - coquus
-- the cookie - crustulum
-- the courier - tabellarius
-- the cup - poculum
-- the dad; the father - pater (m.)
-- the dinner - cena
-- the doctor - medicus/medica
-- the egg - ovum
-- the family - familia
-- the farmer - agricola
-- the field - ager (m.)
-- the fish - piscis (m.)
-- the fish sauce - garum
-- the floor - pavimentum
-- the food; the meal - cibus
-- the forum; the marketplace; the plaza - forum
-- the game; the sport - ludus
-- the girl - puella
-- the gladiator - gladiator (m.)
-- the grave - sepulchrum
-- the head of the house - pater familias (m.) (literally "father of the family" but used for head of the house)
-- the home; the house - domus
-- the husband - maritus
-- the inn - caupona
-- the journey - iter (nt.)
-- the language; the tongue - lingua
-- the literature - litterae (f.)
-- the lunch - prandium
-- the man - vir (m.)
-- the meat - caro
-- the merchant - mercator (m.)
-- the mom; the mother - mater (f.)
-- the money - pecunia
-- the old man - senex (m.)
-- the old woman - anus
-- the olive - oliva
-- the painter - pictor (m.)
-- the paint - pictura
-- the parrot - psittacus
-- the patron - patronus
-- the peacock - pavo, pavonis
-- the plate - patella
-- the poem; the song - carmen (nt.)
-- the poet - poeta
-- the professor - professor (m.)
-- the relative - cognatus; familiaris
-- the school - schola
-- the seer - vates (m./f.)
-- these - hi (m.)/hae (f.)
-- the sister - soror (f.)
-- the soldier - miles (m.)
-- the son - filius
-- the stage - scaena
-- the student - discipulus/discipula
-- the table - mensa
-- the teacher - magister/magistra
-- the temple - templum
-- the theater - theatrum
-- the university - universitas (f.)
-- the wife - uxor (f.)
-- the wine - vinum
-- they - ii (m.)/eae (f.)/ea (nt.)
-- the young man - iuvenis (m.)
-- the young woman - iuvenis feminina (used for both young man and woman, context specific)
-- thirty - triginta
-- those - illi (m.)/illae (f.)/illa (nt.)
-- three - tres (m./f.)/tria (nt.)
-- tired - fessus
-- to - ad (with motion towards)
-- to be born - nasci
-- to be - esse
-- to build - aedificare; condere
-- to buy - emere
-- to come - venire
-- to cook - coquere
-- to cost - constare
-- today - hodie
-- to drink - bibere
-- to drive - agere (used in context, e.g., vehiculum agere)
-- to dwell - habitare
-- to fight - pugnare
-- together - una
-- to give - dare
-- to go - ire
-- to have - habere
-- to know (a fact) - scire
-- to learn - discere
-- to like; to please - placere
-- to love - amare
-- to make - facere
-- to paint - pingere
-- to read - legere
-- to sacrifice - sacrificare
-- to sell - vendere
-- to sleep - dormire
-- to study - studere
-- to taste - gustare
-- to teach - docere
-- to throw - iacere
-- to travel - iter facere
-- to visit - visitare
-- to visit a patron - salutationem facere
-- to want - velle
-- to where - quo
-- to write - scribere
-- twenty - viginti
-- two - duo
-- unhappy - infelix; miser
-- us; we - nos
-- very many - plurimi
-- what - quid
-- where - ubi
-- which - quis (m.)/quae (f.)
-- who - quis
-- wicked - impius; pravus
-- with - cum
-- yes - ita (formal); sic (affirmative response)
-- young - iuvenis
-- yours - tuus/tua/tuum (depending on the gender of the object referred to)
-- your - tuus (m. sg.)/tua (f. sg.)/tuum (nt. sg.); vester (pl.)
-- you - tu (sg.); vos (pl.)
+-   a/an - unus/una (depending on gender)
+-   all right; fine; well - bene
+-   alone - solus
+-   also - etiam; quoque
+-   America - America
+-   American - Americanus
+-   and - et
+-   angry - iratus
+-   at - ad
+-   at home - domi
+-   badly - male
+-   bad - malus
+-   before - ante
+-   best - optimus
+-   better - melior
+-   big; large - magnus
+-   busy - occupatus
+-   but - sed
+-   by; from - a/ab (depending on the following word)
+-   calm - placidus; tranquillus
+-   concerned; stressful; worried - sollicitus
+-   daily - cotidie
+-   dining room - triclinium
+-   drunk - ebrius
+-   dutiful; pious - pius
+-   fat - pinguis
+-   female; the woman - femina
+-   five - quinque
+-   four - quattuor
+-   from where - unde
+-   happy - felix; laetus
+-   healthy - sanus
+-   he - is (m.)
+-   hello; hi; welcome - salve/salvete
+-   her (obj.) - eam
+-   her (poss.); hers; his - eius
+-   herself - se ipsa
+-   him - eum
+-   himself - se ipsum
+-   holy; sacred - sacer; sanctus
+-   how are you - quid agis
+-   how many - quot
+-   how much - quantum
+-   how - quomodo
+-   I - ego
+-   in - in
+-   its - eius (of it, possessive)
+-   kind (adj.) - benignus
+-   Latin - Latinus
+-   lazy - ignavus; piger
+-   leisurely - otiosus
+-   long - longus
+-   many - multi
+-   me - me
+-   New York - Novum Eboracum
+-   no - minime
+-   not - non
+-   OK - bene (informal, not a direct equivalent)
+-   old - senilis; vetus
+-   one (num.) - unus
+-   our; ours - noster
+-   perhaps - fortasse
+-   Philadelphia - Philadelphia
+-   please - quaeso (in asking politely)
+-   quiet - quietus; tacitus
+-   red - ruber
+-   rich - pecuniosus
+-   salty - salsus
+-   she - ea
+-   sick - aeger
+-   skilled - peritus
+-   so - ita
+-   sometimes - interdum
+-   strict - severus
+-   surely not - num
+-   ten - decem
+-   that (pronoun) - ille (m.)/illa (f.)
+-   the accountant - ratiocinator (m.)
+-   the actor/actress - histrio/histrionissa
+-   the ally - socius
+-   the altar - altare (nt.); ara
+-   the architect - architectus
+-   the baker - pistor (m.)
+-   the bar (tavern); the shop - taberna
+-   the bed - lectus
+-   the bone - ossum
+-   the book - liber (m.)
+-   the boy; the child - puer (m.)
+-   the bread - panis (m.)
+-   the brother - frater (m.)
+-   the building - aedificium
+-   the city - urbs (f.)
+-   the client - cliens (m.)
+-   the coin - nummus
+-   the cook - coquus
+-   the cookie - crustulum
+-   the courier - tabellarius
+-   the cup - poculum
+-   the dad; the father - pater (m.)
+-   the dinner - cena
+-   the doctor - medicus/medica
+-   the egg - ovum
+-   the family - familia
+-   the farmer - agricola
+-   the field - ager (m.)
+-   the fish - piscis (m.)
+-   the fish sauce - garum
+-   the floor - pavimentum
+-   the food; the meal - cibus
+-   the forum; the marketplace; the plaza - forum
+-   the game; the sport - ludus
+-   the girl - puella
+-   the gladiator - gladiator (m.)
+-   the grave - sepulchrum
+-   the head of the house - pater familias (m.) (literally "father of the family" but used for head
+    of the house)
+-   the home; the house - domus
+-   the husband - maritus
+-   the inn - caupona
+-   the journey - iter (nt.)
+-   the language; the tongue - lingua
+-   the literature - litterae (f.)
+-   the lunch - prandium
+-   the man - vir (m.)
+-   the meat - caro
+-   the merchant - mercator (m.)
+-   the mom; the mother - mater (f.)
+-   the money - pecunia
+-   the old man - senex (m.)
+-   the old woman - anus
+-   the olive - oliva
+-   the painter - pictor (m.)
+-   the paint - pictura
+-   the parrot - psittacus
+-   the patron - patronus
+-   the peacock - pavo, pavonis
+-   the plate - patella
+-   the poem; the song - carmen (nt.)
+-   the poet - poeta
+-   the professor - professor (m.)
+-   the relative - cognatus; familiaris
+-   the school - schola
+-   the seer - vates (m./f.)
+-   these - hi (m.)/hae (f.)
+-   the sister - soror (f.)
+-   the soldier - miles (m.)
+-   the son - filius
+-   the stage - scaena
+-   the student - discipulus/discipula
+-   the table - mensa
+-   the teacher - magister/magistra
+-   the temple - templum
+-   the theater - theatrum
+-   the university - universitas (f.)
+-   the wife - uxor (f.)
+-   the wine - vinum
+-   they - ii (m.)/eae (f.)/ea (nt.)
+-   the young man - iuvenis (m.)
+-   the young woman - iuvenis feminina (used for both young man and woman, context specific)
+-   thirty - triginta
+-   those - illi (m.)/illae (f.)/illa (nt.)
+-   three - tres (m./f.)/tria (nt.)
+-   tired - fessus
+-   to - ad (with motion towards)
+-   to be born - nasci
+-   to be - esse
+-   to build - aedificare; condere
+-   to buy - emere
+-   to come - venire
+-   to cook - coquere
+-   to cost - constare
+-   today - hodie
+-   to drink - bibere
+-   to drive - agere (used in context, e.g., vehiculum agere)
+-   to dwell - habitare
+-   to fight - pugnare
+-   together - una
+-   to give - dare
+-   to go - ire
+-   to have - habere
+-   to know (a fact) - scire
+-   to learn - discere
+-   to like; to please - placere
+-   to love - amare
+-   to make - facere
+-   to paint - pingere
+-   to read - legere
+-   to sacrifice - sacrificare
+-   to sell - vendere
+-   to sleep - dormire
+-   to study - studere
+-   to taste - gustare
+-   to teach - docere
+-   to throw - iacere
+-   to travel - iter facere
+-   to visit - visitare
+-   to visit a patron - salutationem facere
+-   to want - velle
+-   to where - quo
+-   to write - scribere
+-   twenty - viginti
+-   two - duo
+-   unhappy - infelix; miser
+-   us; we - nos
+-   very many - plurimi
+-   what - quid
+-   where - ubi
+-   which - quis (m.)/quae (f.)
+-   who - quis
+-   wicked - impius; pravus
+-   with - cum
+-   yes - ita (formal); sic (affirmative response)
+-   young - iuvenis
+-   yours - tuus/tua/tuum (depending on the gender of the object referred to)
+-   your - tuus (m. sg.)/tua (f. sg.)/tuum (nt. sg.); vester (pl.)
+-   you - tu (sg.); vos (pl.)
