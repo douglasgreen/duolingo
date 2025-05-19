@@ -1,279 +1,280 @@
-A boy eats apples.
-A cat is eating.
-A croissant, please.
-A cup of coffee, please.
-A cup of coffee, thanks.
-Adam and Sophia live in London.
-A double room costs one hundred euros per night.
-A fish sandwich, please.
-A girl drinks water.
-A green shirt.
-Alessandro is a husband.
-Alice and Paul, do you cook?
-Alice and Paul, do you speak English?
-All the animals ate a lot.
-All the hats cost ten dollars.
-A lot of animals were at my party.
-A menu, please.
-America is big.
-Ana always listens to me.
-Ana, does the library have computers?
-Ana works with the secretaries.
-And this jacket, do you already have it?
-And what do you have at breakfast?
-And you, what music do you listen to?
-Animals descend from the mountain.
-Anna is German.
-A plate and a glass, please.
-Are Sophia and Adam good parents?
-Are the men from France?
-Are the parents tired?
-Are they showering now?
-Are they the men from New York?
-Are you a teacher?
-Are you buying clothes?
-Are you drinking tea?
-Are you enjoying your vacation?
-Are you finishing the meeting now?
-Are you from France?
-Are you going to school?
-Are you going to stay at your place?
-Are you going to the beach?
-Are you going to travel tomorrow?
-Are you having breakfast?
-Are you hot?
-Are you hungry, Rafael?
-Are you interested in soccer?
-Are you learning Italian?
-Are you making the meal?
-Are you Marc?
-Are you putting on the new dress today?
-Are you tired today?
-Are you traveling with your sister?
-A room for three nights, please.
-A spider is not an insect.
-A table for two, please.
-A tea, please.
-A ticket to Santiago, please.
-Because of the sun, my skin is red.
-Bruno, are you a waiter?
-Bruno is the best student in the class.
-Bye!
-Bye, good night.
-Bye, see you tomorrow!
-Canadians speak English and French.
-Can I help you choose?
-Can I help you clean the kitchen floor?
-Can we go to the movie theater?
-Can you bring the menu, please?
-Can you clean the shower, please?
-Can you come tomorrow?
-Can you go to the supermarket, please?
-Can you help me put this table over there?
-Can you help us with the food?
-Can you speak more slowly?
-Carmen and María are very studious.
-Carmen, do you like to swim?
-Children like to play at the beach.
-Coffee or tea?
-Coffee, please!
-Corinna and Livia make a journey.
-Customs is over there.
-Dad always makes breakfast.
-David is the worst baseball player.
-Did you already take this course?
-Did you start a new class?
-Does he have a horse?
-Does he sleep on his stomach or on his back?
-Does the sauce have meat?
-Does the university have three libraries?
-Does your father live here?
-Do the men work in an office?
-Do you already have plans?
-Do you come from Italy?
-Do you come from Spain?
-Do you cook?
-Do you drink coffee without milk?
-Do you eat bread?
-Do you eat pepper?
-Do you eat yogurt?
-Do you have a brother?
-Do you have a cell phone?
-Do you have a chair?
-Do you have a dog?
-Do you have animals?
-Do you have a nut allergy?
-Do you have a pet?
-Do you have a red dress?
-Do you have a suitcase?
-Do you have a vegetarian menu?
-Do you have a watch?
-Do you have bananas?
-Do you have children?
-Do you have coffee at breakfast?
-Do you have enough money to buy that cap?
-Do you have the suitcase?
-Do you have the ticket?
-Do you have time this evening?
-Do you have to work on Saturdays?
-Do you know a lot of people here?
-Do you know where the passports are?
-Do you like chocolate?
-Do you like French?
-Do you like my ring?
-Do you like running in the park?
-Do you like strawberries?
-Do you like the apartment?
-Do you like these wines from Mexico?
-Do you like to play soccer?
-Do you like to swim?
-Do you like to travel?
-Do you like to walk around?
-Do you live alone or do you have roommates?
-Do you live in Italy?
-Do you live together?
-Do you love her or me?
-Do you need a taxi, sir?
-Do you read?
-Do you read books?
-Do you read often?
-Do you read the newspaper?
-Do you remember those happy days?
-Do you sing often?
-Do you speak English with your boyfriend?
-Do you speak Italian, French, Spanish or German?
-Do you speak Turkish?
-Do you study French?
-Do you study medicine?
-Do you surf every day?
-Do you swim?
-Do you want a beer?
-Do you want to add ice?
-Do you want to buy something for me?
-Do you want to buy the red shirt or the yellow one?
-Do you want to draw?
-Do you want to eat dessert?
-Do you want to eat here?
-Do you want to grill on the weekend?
-Do you want to play basketball later?
-Do you want to try the soup?
-Do you work in Milan?
-During the summer we visited a castle on an island.
-Eduardo, do you need this book?
-Enjoy your meal!
-Esperanto is a wonderful language, isn't it?
-Esperanto speakers wear cool shirts.
-Everybody wants to stay in this hotel.
-Every morning I make my bed.
-Excuse me, do you speak French?
-Excuse me, do you speak German?
-Excuse me, I have a question.
-Excuse me, I'm lost.
-Excuse me, sir, how do I get to the bookstore?
-Excuse me, what time is it?
-Excuse me, what time is it now?
-Excuse me, where is the hotel?
-Excuse me, where is the market?
-Excuse me, where is the menu?
-Excuse me, where is the school?
-Excuse me, where is the train station?
-Excuse me, where's the subway?
-Excuse me, you're Anna, right?
-Father is not strict, but kind.
-Father is strict.
-Felipe, do you love me?
-For dessert, I'd like the ice cream.
-Form the plural
-For the first course, I'd like the pasta.
-For the second course, I'd like the fish.
-France is a country in Europe.
-Gabriel, I love you.
-Gloria, come back later!
-Good afternoon, how are you?
-Good afternoon, ma'am.
-Good afternoon, what is your name?
-Goodbye, have a good day.
-Goodbye, Marie.
-Good evening!
-Good evening, how are you?
-Good morning!
-Good morning, a table, please.
-Good morning, how are you doing?
-Good morning, mom!
-Good morning, Mother!
-Good night!
-Good night, see you!
-Good, thanks.
-Go straight ahead up to the shop.
-Gray or brown?
-Green or blue?
-Green tea, please!
-Guess where I am!
-Have a good day, sir.
-Have a good trip!
-He arrived thirty seconds earlier than me.
-He asks for a bottle with milk.
-He does not eat pork, because he is vegetarian.
-He doesn't have a boyfriend.
-He doesn't speak German.
-He drank very good wines on his trip.
-He eats fried chicken.
-He frequently buys Japanese snacks.
-He has a blue flower.
-He has a key.
-He has a lot of dogs.
-He has an Italian friend.
-He has green eyes.
-He has long hair.
-He is a father.
-He is Italian.
-He is visiting the United States.
-He likes traveling.
-Hello, a coffee, please.
-Hello, are you hungry?
-Hello, are you well?
-Hello David.
-Hello, do you speak Esperanto?
-Hello, good morning!
-Hello, how are you?
-Hello, I am Adam.
-Hello, I am British.
-Hello, I am Chinese.
-Hello, I am Juan.
-Hello, I'm from Rome.
-Hello, I'm Hana.
-Hello! I would like to book a large room, please.
-Hello, Marcus and Livia.
-Hello, what is your name?
-Hello, where are you from?
-Hello, where is the train station?
-He makes rice.
-He makes toast.
-He needs a lot of green t-shirts.
-Here are both parents!
-Here are the teachers of our university.
-Here is the check, are you paying together?
-Here is the menu.
-Her parents live in the United States.
-He's a nice person!
-He's a teacher.
-He speaks badly.
-He wants to go to the hotel.
-He wants to learn Italian.
-He watches TV every day.
-He works a lot on Mondays.
-Hi dad, how are you?
-Hi! How are you?
-Hi, how are you doing?
-Hi, I'm Laura.
-Hi, nice to meet you.
-His brother is my boyfriend.
-His cousin wants to become a chef.
-His grandmother likes to grow plants.
-His grandparents are still very healthy.
-His head hurt all day.
-His webpage is in Esperanto.
-Hi, what's your name?
+Un garçon mange des pommes.
+Un chat mange.
+Un croissant, s'il vous plaît.
+Une tasse de café, s'il vous plaît.
+Une tasse de café, merci.
+Adam et Sophia vivent à Londres.
+Une chambre double coûte cent euros par nuit.
+Un sandwich au poisson, s'il vous plaît.
+Une fille boit de l'eau.
+Une chemise verte.
+Alessandro est un mari.
+Alice et Paul, vous cuisinez ?
+Alice et Paul, vous parlez anglais ?
+Tous les animaux ont beaucoup mangé.
+Tous les chapeaux coûtent dix dollars.
+Il y avait beaucoup d'animaux à ma fête.
+Un menu, s'il vous plaît.
+L'Amérique est grande.
+Ana m'écoute toujours.
+Ana, est-ce que la bibliothèque a des ordinateurs ?
+Ana travaille avec les secrétaires.
+Et cette veste, tu l'as déjà ?
+Et que prends-tu au petit déjeuner ?
+Et toi, quelle musique écoutes-tu ?
+Les animaux descendent de la montagne.
+Anna est allemande.
+Une assiette et un verre, s'il vous plaît.
+Sophia et Adam sont-ils de bons parents ?
+Les hommes sont-ils de France ?
+Les parents sont-ils fatigués ?
+Est-ce qu'ils prennent une douche maintenant ?
+Est-ce que ce sont les hommes de New York ?
+Es-tu professeur ?
+Est-ce que tu achètes des vêtements ?
+Est-ce que tu bois du thé ?
+Est-ce que tu profites de tes vacances ?
+Est-ce que tu finis la réunion maintenant ?
+Es-tu de France ?
+Est-ce que tu vas à l'école ?
+Est-ce que tu vas rester chez toi ?
+Est-ce que tu vas à la plage ?
+Est-ce que tu vas voyager demain ?
+Est-ce que tu prends ton petit-déjeuner ?
+As-tu chaud ?
+As-tu faim, Rafael ?
+Est-ce que tu t'intéresses au football ?
+Est-ce que tu apprends l'italien ?
+Est-ce que tu prépares le repas ?
+Es-tu Marc ?
+Est-ce que tu mets la nouvelle robe aujourd'hui ?
+Es-tu fatigué aujourd'hui ?
+Est-ce que tu voyages avec ta sœur ?
+Une chambre pour trois nuits, s'il te plaît.
+Une araignée n'est pas un insecte.
+Une table pour deux, s'il te plaît.
+Un thé, s'il te plaît.
+Un billet pour Santiago, s'il vous plaît.
+À cause du soleil, ma peau est rouge.
+Bruno, tu es serveur ?
+Bruno est le meilleur élève de la classe.
+Au revoir !
+Au revoir, bonne nuit.
+Au revoir, à demain !
+Les Canadiens parlent anglais et français.
+Puis-je t'aider à choisir ?
+Puis-je t'aider à nettoyer le sol de la cuisine ?
+Pouvons-nous aller au cinéma ?
+Peux-tu apporter le menu, s'il te plaît ?
+Peux-tu nettoyer la douche, s'il te plaît ?
+Peux-tu venir demain ?
+Peux-tu aller au supermarché, s'il te plaît ?
+Peux-tu m'aider à mettre cette table là-bas ?
+Peux-tu nous aider avec la nourriture ?
+Peux-tu parler plus lentement ?
+Carmen et María sont très studieuses.
+Carmen, aimes-tu nager ?
+Les enfants aiment jouer à la plage.
+Café ou thé ?
+Café, s'il te plaît !
+Corinna et Livia font un voyage.
+La douane est là-bas.
+Papa prépare toujours le petit-déjeuner.
+David est le pire joueur de baseball.
+As-tu déjà suivi ce cours ?
+As-tu commencé un nouveau cours ?
+A-t-il un cheval ?
+Dort-il sur le ventre ou sur le dos ?
+La sauce contient-elle de la viande ?
+L'université a-t-elle trois bibliothèques ?
+Ton père habite-t-il ici ?
+Les hommes travaillent-ils dans un bureau ?
+As-tu déjà des projets ?
+Viens-tu d'Italie ?
+Viens-tu d'Espagne ?
+Tu cuisines ?
+Tu bois du café sans lait ?
+Tu manges du pain ?
+Tu manges du poivre ?
+Tu manges du yaourt ?
+As-tu un frère ?
+As-tu un téléphone portable ?
+As-tu une chaise ?
+As-tu un chien ?
+As-tu des animaux ?
+As-tu une allergie aux noix ?
+As-tu un animal de compagnie ?
+As-tu une robe rouge ?
+As-tu une valise ?
+As-tu un menu végétarien ?
+As-tu une montre ?
+Est-ce que tu as des bananes ?
+Est-ce que tu as des enfants ?
+Tu prends du café au petit déjeuner ?
+Tu as assez d'argent pour acheter cette casquette ?
+Tu as la valise ?
+Tu as le billet ?
+Tu as du temps ce soir ?
+Tu dois travailler le samedi ?
+Tu connais beaucoup de gens ici ?
+Tu sais où sont les passeports ?
+Tu aimes le chocolat ?
+Tu aimes le français ?
+Tu aimes ma bague ?
+Tu aimes courir dans le parc ?
+Tu aimes les fraises ?
+Tu aimes l'appartement ?
+Tu aimes ces vins du Mexique ?
+Tu aimes jouer au foot ?
+Tu aimes nager ?
+Tu aimes voyager ?
+Tu aimes te promener ?
+Tu vis seul ou tu as des colocataires ?
+Tu vis en Italie ?
+Tu vis ensemble ?
+Tu aimes elle ou moi ?
+Tu as besoin d'un taxi, monsieur ?
+Tu lis ?
+Tu lis des livres ?
+Tu lis souvent ?
+Lis-tu le journal ?
+Te souviens-tu de ces jours heureux ?
+Chantes-tu souvent ?
+Parles-tu anglais avec ton copain ?
+Parles-tu italien, français, espagnol ou allemand ?
+Parles-tu turc ?
+Étudies-tu le français ?
+Étudies-tu la médecine ?
+Fais-tu du surf tous les jours ?
+Nages-tu ?
+Veux-tu une bière ?
+Veux-tu ajouter de la glace ?
+Veux-tu m'acheter quelque chose ?
+Veux-tu acheter le t-shirt rouge ou le jaune ?
+Veux-tu dessiner ?
+Veux-tu manger un dessert ?
+Veux-tu manger ici ?
+Veux-tu faire un barbecue le week-end ?
+Veux-tu jouer au basket plus tard ?
+Veux-tu essayer la soupe ?
+Travailles-tu à Milan ?
+Pendant l'été, nous avons visité un château sur une île.
+Eduardo, as-tu besoin de ce livre ?
+Bon appétit !
+L'espéranto est une langue merveilleuse, n'est-ce pas ?
+Les locuteurs d'espéranto portent des chemises cool.
+Tout le monde veut séjourner dans cet hôtel.
+Chaque matin, je fais mon lit.
+Excusez-moi, parlez-vous français ?
+Excusez-moi, parlez-vous allemand ?
+Excusez-moi, j'ai une question.
+Excusez-moi, je suis perdu.
+Excusez-moi, monsieur, comment puis-je me rendre à la librairie ?
+Excusez-moi, quelle heure est-il ?
+Excusez-moi, quelle heure est-il maintenant ?
+Excusez-moi, où est l'hôtel ?
+Excusez-moi, où est le marché ?
+Excusez-moi, où est le menu ?
+Excusez-moi, où est l'école ?
+Excusez-moi, où est la gare ?
+Excusez-moi, où est le métro ?
+Excusez-moi, vous êtes Anna, n'est-ce pas ?
+Papa n'est pas strict, mais gentil.
+Papa est strict.
+Felipe, est-ce que tu m'aimes ?
+Pour le dessert, je voudrais la glace.
+Formez le pluriel
+Pour le premier plat, je voudrais les pâtes.
+Pour le deuxième plat, je voudrais le poisson.
+La France est un pays d'Europe.
+Gabriel, je t'aime.
+Gloria, reviens plus tard !
+Bonjour, comment allez-vous ?
+Bonjour, madame.
+Bonjour, comment vous appelez-vous ?
+Au revoir, bonne journée.
+Au revoir, Marie.
+Bonsoir !
+Bonsoir, comment allez-vous ?
+Bonjour !
+Bonjour, une table, s'il vous plaît.
+Bonjour, comment allez-vous ?
+Bonjour, maman !
+Bonjour, maman !
+Bonne nuit !
+Bonne nuit, à bientôt !
+Bien, merci.
+Allez tout droit jusqu'à la boutique.
+Gris ou marron ?
+Vert ou bleu ?
+Du thé vert, s'il vous plaît !
+Devinez où je suis !
+1,660 / 5,000
+Passez une bonne journée, monsieur.
+Bon voyage !
+Il est arrivé trente secondes avant moi.
+Il demande un biberon avec du lait.
+Il ne mange pas de porc, car il est végétarien.
+Il n'a pas de petit ami.
+Il ne parle pas allemand.
+Il a bu de très bons vins pendant son voyage.
+Il mange du poulet frit.
+Il achète souvent des snacks japonais.
+Il a une fleur bleue.
+Il a une clé.
+Il a beaucoup de chiens.
+Il a un ami italien.
+Il a les yeux verts.
+Il a les cheveux longs.
+Il est père de famille.
+Il est italien.
+Il visite les États-Unis.
+Il aime voyager.
+Bonjour, un café, s'il vous plaît.
+Bonjour, avez-vous faim ?
+Bonjour, vous allez bien ?
+Bonjour David.
+Bonjour, parlez-vous l'espéranto ?
+Bonjour, bonjour !
+Bonjour, comment allez-vous ?
+Bonjour, je suis Adam.
+Bonjour, je suis britannique.
+Bonjour, je suis chinois.
+Bonjour, je m'appelle Juan.
+Bonjour, je viens de Rome.
+Bonjour, je m'appelle Hana.
+Bonjour ! Je voudrais réserver une grande chambre, s'il vous plaît.
+Bonjour, Marcus et Livia.
+Bonjour, comment vous appelez-vous ?
+Bonjour, d'où venez-vous ?
+Bonjour, où est la gare ?
+Il fait du riz.
+Il fait du pain grillé.
+Il a besoin de beaucoup de t-shirts verts.
+Voici les deux parents !
+Voici les professeurs de notre université.
+Voici l'addition, vous payez ensemble ?
+Voici le menu.
+Ses parents vivent aux États-Unis.
+C'est une personne gentille !
+Il est professeur.
+Il parle mal.
+Il veut aller à l'hôtel.
+Il veut apprendre l'italien.
+Il regarde la télé tous les jours.
+Il travaille beaucoup le lundi.
+Salut papa, comment vas-tu ?
+Salut ! Comment vas-tu ?
+Salut, comment vas-tu ?
+Salut, je m'appelle Laura.
+Salut, ravie de te rencontrer.
+Son frère est mon petit ami.
+Son cousin veut devenir chef.
+Sa grand-mère aime faire pousser des plantes.
+Ses grands-parents sont encore en très bonne santé.
+Il a mal à la tête toute la journée.
+Sa page Web est en espéranto.
+Salut, comment t'appelles-tu ?
 Horses do not eat eggs.
 How are you doing, Marcus?
 How can we spread Esperanto?
